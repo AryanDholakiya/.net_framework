@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "EmpRecord";
+}
+
+<div class="container-fluid">
+    @if (TempData["successFull"] != null)
+    {
+        <div class="alert alert-success">@TempData["successFull"]</div>
+    }
+    else
+    {
+       <div class="alert alert-info">
+            Oops!,Require To<a class="btn btn-Primary text-danger text-decoration-underline" asp-action="Index">Register Again</a>
+       </div>  
+    }
+</div>
+

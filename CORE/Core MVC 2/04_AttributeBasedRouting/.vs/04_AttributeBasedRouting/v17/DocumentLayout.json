@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|e:\\git files\\.net\\core mvc 2\\04_attributebasedrouting\\04_attributebasedrouting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|solutionrelative:04_attributebasedrouting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|e:\\git files\\.net\\core mvc 2\\04_attributebasedrouting\\04_attributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|solutionrelative:04_attributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|e:\\git files\\.net\\core mvc 2\\04_attributebasedrouting\\04_attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|solutionrelative:04_attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|e:\\git files\\.net\\core mvc 2\\04_attributebasedrouting\\04_attributebasedrouting\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|solutionrelative:04_attributebasedrouting\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|e:\\git files\\.net\\core mvc 2\\04_attributebasedrouting\\04_attributebasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|solutionrelative:04_attributebasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|e:\\git files\\.net\\core mvc 2\\04_attributebasedrouting\\04_attributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|solutionrelative:04_attributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|e:\\git files\\.net\\core mvc 2\\04_attributebasedrouting\\04_attributebasedrouting\\04_attributebasedrouting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A956AC7C-A4D3-4177-B2D3-118670680419}|04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj|solutionrelative:04_attributebasedrouting\\04_attributebasedrouting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "04_AttributeBasedRouting\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "04_AttributeBasedRouting\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T11:04:12.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "04_AttributeBasedRouting\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Controllers\\UserController.cs",
+              "RelativeToolTip": "04_AttributeBasedRouting\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:03:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "04_AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "04_AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T11:03:08.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "04_AttributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "04_AttributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T11:02:22.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "04_AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "04_AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:01:51.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "04_AttributeBasedRouting",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj",
+              "RelativeDocumentMoniker": "04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj",
+              "RelativeToolTip": "04_AttributeBasedRouting\\04_AttributeBasedRouting.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T10:40:52.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Program.cs",
+              "RelativeDocumentMoniker": "04_AttributeBasedRouting\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\04_AttributeBasedRouting\\04_AttributeBasedRouting\\Program.cs",
+              "RelativeToolTip": "04_AttributeBasedRouting\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:39:29.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

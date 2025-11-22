@@ -1,0 +1,85 @@
+﻿@model IEnumerable<JQueryAndAjaxCRUD2.Models.EmpModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered border border-secondary text-center align-middle">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.empPhoto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.empName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.empEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpSalary)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody class="tbody">
+    </tbody>
+</table>
+
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function(){
+            loadData();  
+        });
+
+          function loadData()
+           {
+                $.ajax({
+                    url: "/AllEmp/EmpList",
+                    type:"GET",
+                    success: function(result)
+                    {
+                        var showdata = '';
+                        $.each(result, function(key,item){
+                            showdata += '<tr>';
+                            showdata += '<td> <img src="data:image/jpeg;base64,' + item.empPhoto + '" width="100" height="100"> </td>'; // without "data:image/jpeg;base64," in src image will not visible
+                            showdata += '<td>' + item.empName + '</td>';
+                            showdata += '<td>' + item.empEmail + '</td>';
+                            showdata += '<td>' + item.empSalary + '</td>';
+                            showdata += '<td> <button OnClick="Edit('+ item.empId +')" class="btn btn-primary">Edit</button> | <button class=" btn btn-danger" onclick="Delete(' + item.empId + ')">Delete</button></td>';
+                            showdata += '</tr>';
+                        });
+                        $('.tbody').html(showdata);
+                    }
+                });
+           }
+
+
+        function Edit(id){
+             window.location.href = "/AllEmp/Edit/" + id;
+           }
+
+
+
+        function Delete(id){
+            var confirm = window.confirm("are you sure to delete?");
+
+            if(confirm){
+                $.ajax({
+                    url: "/AllEmp/Delete/" + id,
+                    type: "POST",
+                    success: function (result) {
+                        loadData();
+                    }
+                });
+            }
+        }
+    </script>
+}

@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\controllers\\empinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\controllers\\empinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\views\\empinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\views\\empinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\views\\empinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\views\\empinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\views\\empinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\views\\empinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|e:\\git files\\.net\\core\\core mvc 2\\crud\\crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC86613E-142C-4FD5-B5D3-DDF44284FFDE}|crud\\crud.csproj|solutionrelative:crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T07:00:24.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Views\\EmpInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\EmpInfo\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Views\\EmpInfo\\Index.cshtml",
+              "RelativeToolTip": "crud\\Views\\EmpInfo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T04:32:30.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpInfoController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Controllers\\EmpInfoController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\EmpInfoController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Controllers\\EmpInfoController.cs",
+              "RelativeToolTip": "crud\\Controllers\\EmpInfoController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:26:57.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Program.cs",
+              "RelativeDocumentMoniker": "crud\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Program.cs",
+              "RelativeToolTip": "crud\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:15:25.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "crud\\Data\\MyDbContext.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "crud\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:14:41.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "crud\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "crud\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T05:36:45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "crud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T04:17:43.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Views\\EmpInfo\\Create.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\EmpInfo\\Create.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Views\\EmpInfo\\Create.cshtml",
+              "RelativeToolTip": "crud\\Views\\EmpInfo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T04:44:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Views\\EmpInfo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\EmpInfo\\Edit.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Views\\EmpInfo\\Edit.cshtml",
+              "RelativeToolTip": "crud\\Views\\EmpInfo\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T05:00:17.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\appsettings.json",
+              "RelativeDocumentMoniker": "crud\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\appsettings.json",
+              "RelativeToolTip": "crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T04:03:08.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "crud\\Models\\Employee.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Core MVC 2\\crud\\crud\\Models\\Employee.cs",
+              "RelativeToolTip": "crud\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:10:56.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

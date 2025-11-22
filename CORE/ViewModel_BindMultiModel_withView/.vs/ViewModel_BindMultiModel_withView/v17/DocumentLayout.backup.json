@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\models\\employeeinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\models\\employeeinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\models\\schoolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\models\\schoolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|e:\\git files\\.net\\core\\viewmodel_bindmultimodel_withview\\viewmodel_bindmultimodel_withview\\models\\studentinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865CA3D1-5CF1-43B0-A976-173EC7333D32}|ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView.csproj|solutionrelative:viewmodel_bindmultimodel_withview\\models\\studentinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\Models\\Employee.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\Employee.cs",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:56:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolViewModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\SchoolViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\Models\\SchoolViewModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\SchoolViewModel.cs",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\Models\\SchoolViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:22:36.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeInfoContext.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\EmployeeInfoContext.cs",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\Models\\EmployeeInfoContext.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\EmployeeInfoContext.cs",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\Models\\EmployeeInfoContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:10:15.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\Models\\Student.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\Student.cs",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:43:17.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwFMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T08:42:14.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:39:15.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Program.cs",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Program.cs",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:35:05.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\appsettings.json",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\appsettings.json",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T08:35:13.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentInfoContext.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\StudentInfoContext.cs",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\Models\\StudentInfoContext.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\Models\\StudentInfoContext.cs",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\Models\\StudentInfoContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:34:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\libman.json",
+              "RelativeDocumentMoniker": "ViewModel_BindMultiModel_withView\\libman.json",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\ViewModel_BindMultiModel_withView\\ViewModel_BindMultiModel_withView\\libman.json",
+              "RelativeToolTip": "ViewModel_BindMultiModel_withView\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T08:31:49.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

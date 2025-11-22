@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\controllers\\empinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\controllers\\empinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\views\\empinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\views\\empinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\views\\empinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\views\\empinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\views\\empinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\views\\empinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\data\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\data\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|e:\\git files\\.net\\core\\ajaxwithjquery\\ajaxwithjquery\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3AE2F-DA14-4900-BAAC-B8930A4F5ECE}|AjaxWithJQuery\\AjaxWithJQuery.csproj|solutionrelative:ajaxwithjquery\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Models\\Employees.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Models\\Employees.cs",
+              "RelativeToolTip": "AjaxWithJQuery\\Models\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:23:39.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpInfoController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Controllers\\EmpInfoController.cs",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Controllers\\EmpInfoController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Controllers\\EmpInfoController.cs",
+              "RelativeToolTip": "AjaxWithJQuery\\Controllers\\EmpInfoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:34:24.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empcontext.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Data\\Empcontext.cs",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Data\\Empcontext.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Data\\Empcontext.cs",
+              "RelativeToolTip": "AjaxWithJQuery\\Data\\Empcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:28:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AjaxWithJQuery\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:23:35.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Views\\EmpInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Views\\EmpInfo\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Views\\EmpInfo\\Index.cshtml",
+              "RelativeToolTip": "AjaxWithJQuery\\Views\\EmpInfo\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T10:35:38.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AjaxWithJQuery\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T05:26:36.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Views\\EmpInfo\\Create.cshtml",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Views\\EmpInfo\\Create.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Views\\EmpInfo\\Create.cshtml",
+              "RelativeToolTip": "AjaxWithJQuery\\Views\\EmpInfo\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T10:52:07.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Views\\EmpInfo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Views\\EmpInfo\\Edit.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Views\\EmpInfo\\Edit.cshtml",
+              "RelativeToolTip": "AjaxWithJQuery\\Views\\EmpInfo\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T04:44:31.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Program.cs",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Program.cs",
+              "RelativeToolTip": "AjaxWithJQuery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:19:26.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\appsettings.json",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\appsettings.json",
+              "RelativeToolTip": "AjaxWithJQuery\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-13T04:30:29.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AjaxWithJQuery\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\AjaxWithJQuery\\AjaxWithJQuery\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AjaxWithJQuery\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:30:41.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

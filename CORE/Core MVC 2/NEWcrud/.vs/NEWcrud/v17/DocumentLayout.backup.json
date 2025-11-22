@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\controllers\\petsinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\controllers\\petsinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\models\\petcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\models\\petcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\models\\petcountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\models\\petcountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\data\\petsdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\data\\petsdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\views\\petsinfo\\deletepet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\views\\petsinfo\\deletepet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\views\\petsinfo\\createpet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\views\\petsinfo\\createpet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\views\\petsinfo\\editpet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\views\\petsinfo\\editpet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\views\\petsinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\views\\petsinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|e:\\git files\\.net\\core mvc 2\\newcrud\\newcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E1F9ACD-FFD0-4BBA-AB3E-59E7C45EC697}|NEWcrud\\NEWcrud.csproj|solutionrelative:newcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "NEWcrud\\Models\\Pet.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Models\\Pet.cs",
+              "RelativeToolTip": "NEWcrud\\Models\\Pet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T05:33:06.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetCountries.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Models\\PetCountries.cs",
+              "RelativeDocumentMoniker": "NEWcrud\\Models\\PetCountries.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Models\\PetCountries.cs",
+              "RelativeToolTip": "NEWcrud\\Models\\PetCountries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:32:11.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NEWcrud\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "NEWcrud\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:42:38.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\appsettings.json",
+              "RelativeDocumentMoniker": "NEWcrud\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\appsettings.json",
+              "RelativeToolTip": "NEWcrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T06:38:38.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NEWcrud\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NEWcrud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:50:36.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Petsdiary.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Data\\Petsdiary.cs",
+              "RelativeDocumentMoniker": "NEWcrud\\Data\\Petsdiary.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Data\\Petsdiary.cs",
+              "RelativeToolTip": "NEWcrud\\Data\\Petsdiary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:32:15.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Program.cs",
+              "RelativeDocumentMoniker": "NEWcrud\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Program.cs",
+              "RelativeToolTip": "NEWcrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:39:49.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetsInfoController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Controllers\\PetsInfoController.cs",
+              "RelativeDocumentMoniker": "NEWcrud\\Controllers\\PetsInfoController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Controllers\\PetsInfoController.cs",
+              "RelativeToolTip": "NEWcrud\\Controllers\\PetsInfoController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T04:18:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetCreate.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Models\\PetCreate.cs",
+              "RelativeDocumentMoniker": "NEWcrud\\Models\\PetCreate.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Models\\PetCreate.cs",
+              "RelativeToolTip": "NEWcrud\\Models\\PetCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T05:22:34.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeletePet.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\PetsInfo\\DeletePet.cshtml",
+              "RelativeDocumentMoniker": "NEWcrud\\Views\\PetsInfo\\DeletePet.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\PetsInfo\\DeletePet.cshtml",
+              "RelativeToolTip": "NEWcrud\\Views\\PetsInfo\\DeletePet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T04:17:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePet.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\PetsInfo\\CreatePet.cshtml",
+              "RelativeDocumentMoniker": "NEWcrud\\Views\\PetsInfo\\CreatePet.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\PetsInfo\\CreatePet.cshtml",
+              "RelativeToolTip": "NEWcrud\\Views\\PetsInfo\\CreatePet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T06:15:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditPet.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\PetsInfo\\EditPet.cshtml",
+              "RelativeDocumentMoniker": "NEWcrud\\Views\\PetsInfo\\EditPet.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\PetsInfo\\EditPet.cshtml",
+              "RelativeToolTip": "NEWcrud\\Views\\PetsInfo\\EditPet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T07:27:22.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\PetsInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "NEWcrud\\Views\\PetsInfo\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\PetsInfo\\Index.cshtml",
+              "RelativeToolTip": "NEWcrud\\Views\\PetsInfo\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T06:42:40.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NEWcrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NEWcrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T06:03:55.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NEWcrud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core MVC 2\\NEWcrud\\NEWcrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NEWcrud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T06:20:14.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

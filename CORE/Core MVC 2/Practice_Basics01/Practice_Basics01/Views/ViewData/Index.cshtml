@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<p style="margin-bottom: 20px">This is the index page.</p>
+
+<b>@ViewData["data1"];</b>
+<br />
+<b>@ViewData["data2"];</b>
+<br />
+<b>Curren Date: @ViewData["data3"];</b>
+<br />
+<br />
+
+<h1>Passing Array using ViewData:</h1>
+@{
+    foreach (var i in (string[])ViewData["data4array"]) // here we have to type cast when we use viewdata
+    {
+        <h4>@i</h4>
+    }
+} 
+
+
+<h1>Passing List using ViewData:</h1>
+@{
+    foreach(var listItems in (List<string>)ViewData["List"])
+    {
+        <h4>@listItems</h4>
+    }
+}

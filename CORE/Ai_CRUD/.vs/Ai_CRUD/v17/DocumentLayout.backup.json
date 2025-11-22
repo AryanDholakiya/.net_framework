@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\controllers\\userimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\controllers\\userimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\views\\userimages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\views\\userimages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\views\\userimages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\views\\userimages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|e:\\git files\\.net\\core\\ai_crud\\ai_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EA5361D-2CBD-4AFD-815B-F471DF2AD67D}|Ai_CRUD\\Ai_CRUD.csproj|solutionrelative:ai_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Views\\UserImages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Views\\UserImages\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Views\\UserImages\\Index.cshtml",
+              "RelativeToolTip": "Ai_CRUD\\Views\\UserImages\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T05:53:37.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Views\\UserImages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Views\\UserImages\\Create.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Views\\UserImages\\Create.cshtml",
+              "RelativeToolTip": "Ai_CRUD\\Views\\UserImages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T09:04:24.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Ai_CRUD\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:05:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ai_CRUD\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T10:53:31.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Models\\Person.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Models\\Person.cs",
+              "RelativeToolTip": "Ai_CRUD\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:01:06.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ai_CRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:32:12.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserImagesController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Controllers\\UserImagesController.cs",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Controllers\\UserImagesController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Controllers\\UserImagesController.cs",
+              "RelativeToolTip": "Ai_CRUD\\Controllers\\UserImagesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:09:50.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ai_CRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T04:10:29.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Ai_CRUD\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\Program.cs",
+              "RelativeToolTip": "Ai_CRUD\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:05:27.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "Ai_CRUD\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Ai_CRUD\\Ai_CRUD\\appsettings.json",
+              "RelativeToolTip": "Ai_CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T08:55:06.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

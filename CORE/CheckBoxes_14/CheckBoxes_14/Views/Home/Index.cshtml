@@ -1,0 +1,53 @@
+﻿@model CheckBoxes_14.Models.CheckModel;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<form asp-controller="Home" asp-action="Index" method="post">
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" asp-for="AcceptTerms">
+        <label class="form-check-label" for="checkIndeterminate">
+            I Accept the terms
+        </label>
+    </div>
+    <br />
+    <label class="form-check-label" for="">
+     Sport you Like:
+    </label>
+    @* @foreach (var checkbox in Model.CheckBoxes)
+    {
+        <div class="form-check">
+            <input class="form-check-input"
+            type="checkbox" 
+            value="@checkbox.ValueOfCheck"
+            id="checkbox_@checkbox.ValueOfCheck" 
+            name="hobby"
+            checked="@checkbox.IscheckedOrNot">
+
+            <label class="form-check-label" for="checkIndeterminate">
+                @checkbox.Text
+            </label>
+        </div>
+    } *@
+
+    @for (int i = 0; i < Model.CheckBoxes.Count; i++)
+    {
+        <div class="form-check">
+            <input type="checkbox"
+                   asp-for="CheckBoxes[i].IscheckedOrNot"
+                   class="form-check-input" />
+            <label class="form-check-label">@Model.CheckBoxes[i].Text</label>
+
+            <!-- Keep hidden fields so that values are not lost on post -->
+            <input type="hidden" asp-for="CheckBoxes[i].Text" />
+            <input type="hidden" asp-for="CheckBoxes[i].ValueOfCheck" />
+        </div>
+    }
+    <input type="submit" value="submit" class="btn btn-success" />
+</form>

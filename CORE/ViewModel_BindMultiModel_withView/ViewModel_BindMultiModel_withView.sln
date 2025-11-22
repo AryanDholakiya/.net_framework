@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel_BindMultiModel_withView", "ViewModel_BindMultiModel_withView\ViewModel_BindMultiModel_withView.csproj", "{865CA3D1-5CF1-43B0-A976-173EC7333D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865CA3D1-5CF1-43B0-A976-173EC7333D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865CA3D1-5CF1-43B0-A976-173EC7333D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865CA3D1-5CF1-43B0-A976-173EC7333D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865CA3D1-5CF1-43B0-A976-173EC7333D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B9EF35-8F95-4B10-8029-6D663F1B97E7}
+	EndGlobalSection
+EndGlobal

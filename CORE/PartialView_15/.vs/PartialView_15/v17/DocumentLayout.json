@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\PartialView_15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{482ACFFF-0778-472B-AA01-1FC456E496FF}|PartialView_15\\PartialView_15.csproj|e:\\git files\\.net\\core\\partialview_15\\partialview_15\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{482ACFFF-0778-472B-AA01-1FC456E496FF}|PartialView_15\\PartialView_15.csproj|solutionrelative:partialview_15\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482ACFFF-0778-472B-AA01-1FC456E496FF}|PartialView_15\\PartialView_15.csproj|e:\\git files\\.net\\core\\partialview_15\\partialview_15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{482ACFFF-0778-472B-AA01-1FC456E496FF}|PartialView_15\\PartialView_15.csproj|solutionrelative:partialview_15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482ACFFF-0778-472B-AA01-1FC456E496FF}|PartialView_15\\PartialView_15.csproj|e:\\git files\\.net\\core\\partialview_15\\partialview_15\\views\\shared\\_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{482ACFFF-0778-472B-AA01-1FC456E496FF}|PartialView_15\\PartialView_15.csproj|solutionrelative:partialview_15\\views\\shared\\_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PartialView_15\\PartialView_15\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PartialView_15\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PartialView_15\\PartialView_15\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PartialView_15\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T10:42:32.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PartialView_15\\PartialView_15\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialView_15\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PartialView_15\\PartialView_15\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PartialView_15\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T10:39:23.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Employee.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PartialView_15\\PartialView_15\\Views\\Shared\\_Employee.cshtml",
+              "RelativeDocumentMoniker": "PartialView_15\\Views\\Shared\\_Employee.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PartialView_15\\PartialView_15\\Views\\Shared\\_Employee.cshtml",
+              "RelativeToolTip": "PartialView_15\\Views\\Shared\\_Employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T10:34:43.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

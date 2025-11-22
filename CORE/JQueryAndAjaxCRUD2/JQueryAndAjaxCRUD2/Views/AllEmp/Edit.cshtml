@@ -1,0 +1,131 @@
+﻿@model JQueryAndAjaxCRUD2.Models.EmpModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>EmpModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="empId" />
+            <input type="hidden" asp-for="empPhoto" />
+            @* this line is added for if aapne edit na page ma jai ne photo edit nthi krta to deault photo emj rehvo joie. *@
+
+            <div class="form-group">
+                <label asp-for="empPhoto" class="control-label">Employee Photo</label>
+                @* @if (ViewBag.NullImage != null)
+                {
+                    <p class="text-danger m-0">@ViewBag.NullImage</p>;
+                    <img src="~/images/placeHolderImage.png" class="border border-secondary-subtle mb-1" height="100" width="100" />
+                    <input type="file" asp-for="empPhoto" class="form-control" />
+                    <span asp-validation-for="empPhoto" class="text-danger"></span>
+                }
+                else
+                {
+                    <img class="img-thumbnail d-block mb-1" asp-for="empPhoto" src="data:image/jpeg;base64,@Model.photoForEdit" height="150" width="150" />
+                    <input type="file" asp-for="empPhoto" class="form-control" />
+                    <span asp-validation-for="empPhoto" class="text-danger"></span>
+                } *@
+
+                @if (ViewBag.NullImage != null)
+                {
+                    <p class="text-danger m-0">@ViewBag.NullImage</p>
+                }
+                <img class="img-thumbnail d-block mb-1" role="button" id="image" src="@(ViewBag.NullImage != null? Url.Content("~/images/placeHolderImage.png"): "data:image/jpeg;base64," + Model.photoForEdit)" height="150" width="150" />
+
+                <input type="file" hidden id="fileUpload" onchange="showPreview(this)" class="form-control" />
+                <span asp-validation-for="empPhoto" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label asp-for="empName" class="control-label">Employee Name</label>
+                <input asp-for="empName" class="form-control" />
+                <span asp-validation-for="empName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="empEmail" class="control-label">Employee Email</label>
+                <input asp-for="empEmail" class="form-control" />
+                <span asp-validation-for="empEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmpSalary" class="control-label">Salary</label>
+                <input asp-for="EmpSalary" class="form-control" />
+                <span asp-validation-for="EmpSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="button" id="EditRecord" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function(){
+            $('#EditRecord').click(function(){
+
+                // var EditObj = {
+                //     EmpId : $('#empId').val(),
+                //     EmpName : $('#empName').val(),
+                //     EmpEmail : $('#empEmail').val(),
+                //     EmpSalary : $('#EmpSalary').val()
+                // };
+
+                var formData = new FormData();
+                formData.append("EmpId", $('#empId').val());
+                formData.append("EmpPhoto", $('#empPhoto').val());
+                formData.append("Photo", $('#fileUpload').get(0).files[0]);
+                formData.append("empName", $('#empName').val());
+                formData.append("EmpEmail", $('#empEmail').val()); //EmpEmail ne bdle "empEmail" bcz of json
+                formData.append("EmpSalary", $('#EmpSalary').val());
+
+                $.ajax({
+                    url: "/AllEmp/Edit",
+                    data: formData,
+                    type: "POST",
+                    processData: false,
+                    contentType: false,
+                    success: function(result){
+                        window.location.href = "/AllEmp/Index"
+                    },
+                    error: function (errormessage) {
+                        alert(errormessage.responseText);
+                    }
+                })
+            });
+
+            $("#image").click(function(){
+                 $("#fileUpload").click();//triggers file upload
+            })
+
+
+
+        });
+
+            function showPreview(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function (e) {
+                    $('#image').attr('src', e.target.result);
+                }
+
+                reader.readAsDataURL(input.files[0]); // convert file → base64
+            }
+        }
+    </script>
+
+}

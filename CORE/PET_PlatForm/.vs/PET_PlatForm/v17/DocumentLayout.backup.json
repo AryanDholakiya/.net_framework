@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\models\\availablepets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\models\\availablepets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\data\\petdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\data\\petdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\views\\pet\\petindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\views\\pet\\petindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|e:\\git files\\.net\\core\\pet_platform\\pet_platform\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9EAAE685-491D-4325-BAAD-41D359AB303D}|PET_PlatForm\\PET_PlatForm.csproj|solutionrelative:pet_platform\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PET_PlatForm\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:04:15.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Controllers\\PetController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Controllers\\PetController.cs",
+              "RelativeToolTip": "PET_PlatForm\\Controllers\\PetController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:57:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetIndex.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Pet\\PetIndex.cshtml",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Views\\Pet\\PetIndex.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Pet\\PetIndex.cshtml",
+              "RelativeToolTip": "PET_PlatForm\\Views\\Pet\\PetIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T06:45:28.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PET_PlatForm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T06:41:35.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PET_PlatForm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T06:33:05.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetData.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Data\\PetData.cs",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Data\\PetData.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Data\\PetData.cs",
+              "RelativeToolTip": "PET_PlatForm\\Data\\PetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:05:34.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "availablePets.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Models\\availablePets.cs",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Models\\availablePets.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Models\\availablePets.cs",
+              "RelativeToolTip": "PET_PlatForm\\Models\\availablePets.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:47:42.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Pet\\Create.cshtml",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Views\\Pet\\Create.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Pet\\Create.cshtml",
+              "RelativeToolTip": "PET_PlatForm\\Views\\Pet\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T09:46:22.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PET_PlatForm\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:52:40.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "PET_PlatForm\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\PET_PlatForm\\PET_PlatForm\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "PET_PlatForm\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-10T07:15:49.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

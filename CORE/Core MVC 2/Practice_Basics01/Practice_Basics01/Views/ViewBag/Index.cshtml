@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>ViewBag Example:</h1>
+
+@ViewBag.Bag1;
+<br />
+@ViewBag.Bag2;
+
+
+<h1>Array in ViewBag: </h1>
+@{
+    foreach (var item in ViewBag.Bag3Arr) //NOTE: here we don't need to type cast the ViewBag data.
+    {
+        <h4>@item</h4>
+    }
+}
+
+
+<h1>Array in ViewBag: </h1>
+
+@{
+    foreach (var items in ViewBag.Bag4Arr)
+    {
+        <h4>@items</h4>
+    }
+}

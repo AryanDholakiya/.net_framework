@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+  
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@* @model Practice_StronglyTypedView03.Models.Person  --> this line we have to take from controller *@ 
+@* this line we have to add at the top of every view where we want to use the data of this model in every view: so best practice is to USE --> _ViewImports.cshtml and then we just have to write belowed line:  *@
+@model Person 
+
+<h2>@Model.Id</h2>
+<h2>@Model.Name</h2>
+<h2>@Model.Age</h2>

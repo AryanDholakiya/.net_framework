@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+<span>-></span><a href="/Home/Privacy">Privacy-Policy (using normal anchorTag)</a>
+@* aa link nai chalse  *@
+
+<br />
+<span>-></span><a asp-controller="home" asp-action="Privacy" asp-route-id="1">Privacy-Policy (using TagHelpers)</a>
+@* asp-route-id="1" is optional if we want to give specific route to our page*@
+
+<span>-></span><a asp-controller="home" asp-action="PersonId" asp-route-id="1">asp-route-id Not Appears</a>
+
+
+@* Benefits of using TagHelper: 
+--> if we change our convention based route then html links and route will not but OUR Link in which we had use the tag helpers, will perfectly done it. -->check program.cs file.
+--> that is the benefit of use TagHelpers.
+
+==> we can see the change in browse->right click->viewPagesource.  see href 
+*@

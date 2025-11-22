@@ -1,0 +1,67 @@
+﻿@model JQueryAndAjaxCRUD2.Models.ReviewModel
+@{
+    ViewData["Title"] = "RCreate";
+}
+
+<h1 class="text-decoration-underline">Add your Review</h1>
+
+<div class="mt-5 border border-secondary p-3">
+
+    <form asp-action="RCreate" method="POST">
+        <div asp-validation-summary="ModelOnly" class="text-danger"> </div>
+        <div class="form-outline mb-4">
+            <label class="form-label" asp-for="Title"></label>
+            <div>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-outline mb-4">
+            <label class="form-label" asp-for="Review"></label>
+            <div>
+                <textarea asp-for="Review" class="form-control"></textarea>
+                <span asp-validation-for="Review" class="text-danger"></span>
+            </div>
+        </div>
+        <input type="Submit" class="btn btn-primary" value="Create" />
+    </form>
+</div>
+
+@section Scripts {
+
+    <script>
+        tinymce.init({
+            selector: '#Review',
+            height: 400,
+            plugins: [
+              'advlist', 'autolink', 'link', 'image', 'lists', 'charmap', 'preview',
+               'anchor', 'pagebreak',
+              'searchreplace', 'wordcount', 'visualblocks', 'visualchars', 'code',
+              'fullscreen', 'insertdatetime',
+              'media', 'table', 'emoticons', 'template', 'help'
+            ],
+            toolbar: 'undo redo | styles | bold italic | alignleft aligncenter alignright alignjustify | ' +
+                     'bullist numlist outdent indent | link image | print preview media fullscreen | ' +
+                     'forecolor backcolor emoticons | help',
+            menu: {
+              favs: { title: 'My Favorites', items: 'code visualaid |' + 'searchreplace | emoticons' }
+            },
+            menubar: 'favs file edit view insert format tools table help',
+            content_css: 'css/content.css'
+        });
+    </script>
+
+    @* <script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>
+
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#MyTextArea'))
+            .catch(error => {
+                console.error(error);
+            });
+        $(document).ready(function(){
+
+        }) 
+    </script>*@
+}

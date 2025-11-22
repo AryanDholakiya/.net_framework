@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Invoice_Task_AspNetCoreMVC_.Models.Users>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>User List</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="CreateUser">Create New</a>
+</p>
+<table class="table table-bordered text-center border border-secondary-subtle align-middle">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PurchaseDate)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            <td>
+                @item.PurchaseDate.ToString("yyyy-MM-dd")
+                    @* ahi aam mukvu pdyu because @Html.DisplayFor(modelItem => item.PurchaseDate) default time format laine aave model maathi 00:00:00 no time batavse je apna jquery datepicker ne lidhe brbr nai avse to e format ne htavva ahi aam levu pdyu *@
+            </td>
+            <td>
+                <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.UserId">Edit</a>   
+                <a class="btn btn-danger" asp-action="Delete" onclick="return confirm('Are you sure?');" asp-route-id="@item.UserId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

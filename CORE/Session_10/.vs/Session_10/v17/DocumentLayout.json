@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\Session_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|e:\\git files\\.net\\core\\session_10\\session_10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|solutionrelative:session_10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|e:\\git files\\.net\\core\\session_10\\session_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|solutionrelative:session_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|e:\\git files\\.net\\core\\session_10\\session_10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|solutionrelative:session_10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|e:\\git files\\.net\\core\\session_10\\session_10\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|solutionrelative:session_10\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|e:\\git files\\.net\\core\\session_10\\session_10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|solutionrelative:session_10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|e:\\git files\\.net\\core\\session_10\\session_10\\views\\home\\logoutsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|solutionrelative:session_10\\views\\home\\logoutsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|e:\\git files\\.net\\core\\session_10\\session_10\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|solutionrelative:session_10\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|e:\\git files\\.net\\core\\session_10\\session_10\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA4FBE22-1373-475C-8B13-987F26375CFB}|Session_10\\Session_10.csproj|solutionrelative:session_10\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Session_10\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Session_10\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T09:57:27.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Session_10\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Session_10\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T09:55:24.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogoutSession.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\LogoutSession.cshtml",
+              "RelativeDocumentMoniker": "Session_10\\Views\\Home\\LogoutSession.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\LogoutSession.cshtml",
+              "RelativeToolTip": "Session_10\\Views\\Home\\LogoutSession.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T05:15:19.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Session_10\\Views\\Home\\Details.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Session_10\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:59:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Session_10\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Session_10\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:45:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Session_10\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Session_10\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:39:39.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session_10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Session_10\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:39:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Program.cs",
+              "RelativeDocumentMoniker": "Session_10\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Session_10\\Session_10\\Program.cs",
+              "RelativeToolTip": "Session_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:34:28.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

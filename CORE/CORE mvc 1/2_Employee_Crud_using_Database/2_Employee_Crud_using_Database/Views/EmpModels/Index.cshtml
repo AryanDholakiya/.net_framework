@@ -1,0 +1,57 @@
+﻿@model IEnumerable<_2_Employee_Crud_using_Database.Models.EmpModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered text-center">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                Employee Name
+            </th>
+            <th>
+                Employee Email
+            </th>
+            <th>
+                Employee Salary
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.empName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.empEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmpSalary)
+                </td>
+
+                <td class="d-flex justify-content-evenly">
+                    <button class="btn btn-warning border border-1 border-secondary">
+                        <a class="text-danger text-decoration-none" asp-action="Edit" asp-route-id="@item.empId">Edit</a>
+                        </button>  |
+                    <button class="btn btn-primary border border-1 border-secondary">
+                        <a class="text-white  text-decoration-none" asp-action="Details" asp-route-id="@item.empId">Details</a>
+                    </button> |
+                    <button class="btn btn-danger border border-1 border-secondary">
+                        <a class="text-white  text-decoration-none" asp-action="Delete" asp-route-id="@item.empId">Delete</a>
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

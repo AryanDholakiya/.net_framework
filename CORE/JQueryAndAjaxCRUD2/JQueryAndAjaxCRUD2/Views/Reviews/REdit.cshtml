@@ -1,0 +1,62 @@
+﻿@model JQueryAndAjaxCRUD2.Models.ReviewModel
+
+@{
+    ViewData["Title"] = "REdit";
+}
+
+<h4>Edit ReviewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="REdit" method="POST">
+            <div asp-validation-summary="ModelOnly" class="text-danger"> </div>
+            <input type="hidden" asp-for="RId" />
+            <div class="form-outline mb-4">
+                <label class="form-label" asp-for="Title"></label>
+                <div>
+                    <input asp-for="Title" class="form-control" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-outline mb-4">
+                <label class="form-label" asp-for="Review"></label>
+                <div>   
+                    <textarea asp-for="Review" class="form-control"></textarea>
+                    <span asp-validation-for="Review" class="text-danger"></span>
+                </div>
+            </div>
+            <input type="Submit" class="btn btn-primary" value="Update" />
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+
+    <script>
+        tinymce.init({
+            selector: '#Review',
+            height: 400,
+            plugins: [
+              'advlist', 'autolink', 'link', 'image', 'lists', 'charmap', 'preview',
+               'anchor', 'pagebreak',
+              'searchreplace', 'wordcount', 'visualblocks', 'visualchars', 'code',
+              'fullscreen', 'insertdatetime',
+              'media', 'table', 'emoticons', 'template', 'help'
+            ],
+            toolbar: 'undo redo | styles | bold italic | alignleft aligncenter alignright alignjustify | ' +
+                     'bullist numlist outdent indent | link image | print preview media fullscreen | ' +
+                     'forecolor backcolor emoticons | help',
+            menu: {
+              favs: { title: 'My Favorites', items: 'code visualaid |' + 'searchreplace | emoticons' }
+            },
+            menubar: 'favs file edit view insert format tools table help',
+            content_css: 'css/content.css'
+        });
+    </script>
+
+}

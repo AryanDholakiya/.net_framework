@@ -1,0 +1,52 @@
+﻿@model IEnumerable<crud.Models.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpSalary)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmpName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmpEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmpSalary)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.EmpId" class="btn btn-warning">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.EmpId" onclick="return confirm('are you sure to delete the record?')" class="btn btn-danger">Delete</a>
+                    @* <button onclick="deleteRecord(@item.EmpId)" class="btn btn-danger"> Delete</button> *@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    
+</script>

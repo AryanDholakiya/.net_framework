@@ -1,0 +1,219 @@
+﻿@using System.Text.Json
+@model InvoiceProject_Using_PartialView.Models.Customer
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Customer</h1>
+<hr />
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="CustomerId" />
+            @* this input type Hidden asp-for cutomerId taken, because we have to send the customerId to the Post method *@
+            <div class="row mb-2">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="CustomerName" class="control-label">Customer Name</label>
+                        <input asp-for="CustomerName" class="form-control" placeholder="Customer Name" />
+                        <span asp-validation-for="CustomerName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="CustomerAddress" class="control-label">Customer Address</label>
+                        <input asp-for="CustomerAddress" class="form-control" placeholder="Customer Address" />
+                        <span asp-validation-for="CustomerAddress" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="PhoneNumber" class="control-label">Phone Number</label>
+                        <input asp-for="PhoneNumber" class="form-control" placeholder="Phone Number" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="PurchaseDate" class="control-label">Purchase Date</label>
+                        <input asp-for="PurchaseDate" type="text" id="PickDate" class="form-control" placeholder="yyyy-mm-dd" />
+                        <span asp-validation-for="PurchaseDate" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<partial name="_PartialView"></partial>
+
+<div class="d-flex gap-2">
+    <div class="form-group">
+       
+        <button type="button" id="saveCustomer" class="btn btn-primary">Save</button>
+    </div>
+    <div>
+        <a asp-action="Index" class="btn btn-warning">Back to List</a>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+
+        var Products = @Html.Raw(JsonSerializer.Serialize(ViewBag.products));
+               
+        $(document).ready(function(){
+            renderTable();
+            $("#PickDate").datepicker({
+                dateFormat:"yy-mm-dd"
+            });
+
+            $("#PPrice").on("input",function(){
+                let EntereText = $(this).val().replace(/[^0-9.]/g, '');
+
+                const parts = EntereText.split('.');
+                if(parts.length > 2){
+                    EntereText = parts[0] + '.' + parts[1];
+                }
+                $(this).val(EntereText);
+            });
+
+            $("#PQunatity").on("input",function(){
+                let EntereText = $(this).val().replace(/[^0-9]/g, '');
+                $(this).val(EntereText);
+            });
+
+            //auto set totalAmt
+            $("#PQunatity , #PPrice").on("input", function(){
+                let Quntity = $("#PQunatity").val();
+                let Price = $("#PPrice").val();
+                let TotalAmt = Quntity * Price;
+                $("#PTotal").val(TotalAmt.toFixed(4));
+            });
+
+            //add row
+
+
+            $("#addRow").on("click",function(e){
+                // debugger;
+                e.preventDefault();
+                var subProduct = {
+                    ProdctId : 0,
+                    ProductQuantity : $("#PQunatity").val(),
+                    ProductPrice : $("#PPrice").val(),
+                    ProductName : $("#PName").val(),
+                    TotalAmount : $("#PTotal").val()
+                }
+                //if any of below field will null or empty then it will not push the subproduct
+                if(subProduct.ProductQuantity && subProduct.ProductPrice && subProduct.ProductName){
+                    Products.push(subProduct);
+                    renderTable();
+                    $("#PQunatity,#PPrice,#PName,#PTotal").val("");
+                }
+                else{
+                     alert("Please fill the valid product details.");
+                }
+            });
+
+            function renderTable()
+            {
+               // debugger
+               $("#ShowTotalProduct").empty();
+               Products.forEach(function(item, index){
+                   let Row = `
+                         <tr>
+                            <td>${item.ProductName}</td>
+                            <td>${item.ProductQuantity}</td>
+                            <td>${item.ProductPrice}</td>
+                            <td style="width: 135px">${item.TotalAmount}</td>
+                            <td style="width: 120px">
+                                <button class="btn btn-danger DeleteRecord" data-index="${index}">Delete</button>
+                            </td>
+                       </tr>
+                   `;
+                    $("#ShowTotalProduct").append(Row);
+               });
+            }
+
+           
+
+
+             $(document).on("click",".DeleteRecord", function() {                
+                  let index = $(this).data("index");
+                  var prodTobeDeleted = Products[index];
+
+                  let confirmation = confirm("are you sure for delete the product?");
+
+                  if(confirmation){
+                      if(prodTobeDeleted.ProdctId){// aa etle check karavyu because jo user haal edit page ma add krel item delete kre to eni id hju db ma hse j nai to tene direct splice kravi devay.
+                          DeleteProdcut(prodTobeDeleted);
+                      }
+                      Products.splice(index,1);
+                      renderTable();
+                  }
+            });
+
+            function DeleteProdcut(deleteThisprod){
+                 $.ajax({
+                    url: "/Invoice/Delete",
+                    type: "Post",
+                    data: JSON.stringify(deleteThisprod),
+                    contentType: 'application/json; charset=utf-8',
+                    success: function(response){                     
+                       if(response && response.success){
+                           // window.location.href = "/Invoice/Index";
+                       }
+                       else{
+                           alert("Error: " + (response && response.message ? response.message : "Save failed"))
+                       }
+                    },
+                    error: function(xhr, status, err) {
+                        alert("An error occurred: " + err);
+                    }
+                });
+            }
+
+             $("#saveCustomer").on("click",function(e){
+                  e.preventDefault();
+                  debugger
+                let customer = {
+                    CustomerId: $("#CustomerId").val(),
+                    CustomerName: $("#CustomerName").val(),
+                    CustomerAddress: $("#CustomerAddress").val(),
+                    PhoneNumber: $("#PhoneNumber").val(),
+                    PurchaseDate: $("#PickDate").val(),
+                    Products: Products
+                }
+                $.ajax({
+                    url: "/Invoice/Edit",
+                     type: 'POST',
+                    contentType: 'application/json; charset=utf-8',
+                    data: JSON.stringify(customer),              
+                    success: function(response){                     
+                       if(response && response.success){
+                           window.location.href = "/Invoice/Index";
+                       }
+                       else{
+                           alert("Error: " + (response && response.message ? response.message : "Save failed"))
+                       }
+                    },
+                    error: function(xhr, status, err) {
+                        alert("An error occurred: " + err);
+                    }
+                })
+            });
+
+        })
+    </script>
+
+}

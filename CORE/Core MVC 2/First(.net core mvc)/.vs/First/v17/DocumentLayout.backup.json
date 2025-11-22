@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\first(.net core mvc).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\first(.net core mvc).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\first(.net core mvc)\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ED375A5-B933-47EB-B850-66AF88DA7B6D}|WebApplication1\\First(.net core mvc).csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T04:45:12.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "First(.net core mvc)",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\First(.net core mvc).csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\First(.net core mvc).csproj",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\First(.net core mvc).csproj",
+              "RelativeToolTip": "WebApplication1\\First(.net core mvc).csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T04:37:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:17:12.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:17:09.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:05:40.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-19T04:01:06.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T03:59:42.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T03:59:35.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T03:59:22.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T03:59:16.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:20:30.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T11:20:27.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:20:23.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\First(.net core mvc)\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:20:20.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿@* @model InvoiceProject_Using_PartialView.Models.Product; *@
+
+
+<br />
+<div class="row">
+    <div class="col-md-12 mx-auto">
+        <table class="table table-bordered border border-secondary text-center align-middle">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Product Qunatity</th>
+                    <th>Product Price</th>
+                    <th>Total Amount</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="px-3">
+                        <input type="text" id="PName" class="form-control text-center border border-secondary" />
+                    </td>
+                    <td>
+                        <input type="text" id="PQunatity" class="form-control text-center border border-secondary" />
+                    </td>
+                    <td>
+                        <input type="text" id="PPrice" class="form-control text-center border border-secondary" />
+                    </td>
+                    <td>
+                        <input type="text" id="PTotal" readonly class="form-control text-center border border-secondary" />
+                    </td>
+                    <td>
+                        <button style="white-space:nowrap" class="btn btn-success w-100 p-1" id="addRow"><i class="ri-add-large-line"></i> Add</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12 mx-auto">
+        <table class="table table-bordered text-center border border-secondary align-middle">
+            <colgroup>
+                @* table ni columns size same krva mate*@
+                <col style="width: 24%">
+                <col style="width: 24%">
+                <col style="width: 24%">
+                <col style="width: 24%">
+                <col style="width: 4%">
+            </colgroup>
+
+            @* note here controller mathi aavti product ne kai rite set krie 6ie *@
+            <tbody id="ShowTotalProduct">
+            </tbody>
+        </table>
+    </div>
+</div>

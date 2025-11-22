@@ -1,0 +1,210 @@
+﻿@model Invoice_Task_AspNetCoreMVC_.Models.Users
+
+@{
+    ViewData["Title"] = "CreateUser";
+}
+
+@section Styles {
+    <style>
+        tbody tr {
+            padding: 0px !important;
+            margin: 0px !important;
+            /* background-color: red; */
+        }
+    </style>
+}
+
+<div class="row m-3">
+    <div class="col-md-8 mx-auto" method="post">
+        <h4 class="text-decoration-underline">User</h4>
+        <form class="border p-2 border-2 rounded-3" id="form">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label asp-for="UserName" class="control-label"></label>
+                    <input asp-for="UserName" class="form-control" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="UserAddress" class="control-label"></label>
+                    <input asp-for="UserAddress" class="form-control" />
+                    <span asp-validation-for="UserAddress" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label asp-for="PhoneNumber" class="control-label"></label>
+                    <input asp-for="PhoneNumber" class="form-control" />
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="PurchaseDate" class="control-label">Purchase Date</label>
+                    <input asp-for="PurchaseDate" type="text" id="PickDate" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="PurchaseDate" class="text-danger"></span>
+                </div>
+            </div>
+            @* <div class="form-group mt-2 d-flex gap-1">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-warning">Back to List</a>
+            </div> *@
+        </form>
+    </div>
+</div>
+<hr class="my-3" />
+<div class="row">
+    <table class="table table-bordered text-center border border-secondary align-middle">
+        <thead>
+            <tr>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Product Quantity
+                </th>
+                <th>
+                    Product Price
+                </th>
+                <th style="width:120px">
+                    Total
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody class="tbody">
+            <tr>
+                <td>
+                    <input type="text" id="pname" class="w-100 p-1 my-2 text-center" />
+                </td>
+                <td>
+                    <input type="number" id="pqty" class="w-100 p-1 my-2 text-center" />
+                </td>
+                <td>
+                    <input type="text" id="pprice" class="w-100 p-1 my-2 text-center" />
+                </td>
+                <td class="text-center">
+                    <input type="text" id="ptotal" class="w-100 p-1 my-2 text-center" readonly />
+                </td>
+                <td>
+                    <button style="white-space:nowrap" class="btn btn-success w-100 p-1" id="addRow"><i class="ri-add-large-line"></i> Add</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="row">
+    <table id="addedProducts" class="table table-bordered text-center border border-secondary align-middle">
+        <tbody class="TotalProducts">
+        </tbody>
+    </table>
+</div>
+
+<div class="form-group mt-2 d-flex gap-1">
+    <button type="button" id="saveUser" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-warning">Back to List</a>
+</div>
+
+@section Scripts {
+    @* @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    } *@
+
+
+    <script>
+        $(document).ready(function(){
+
+            $("#PickDate").datepicker({
+                dateFormat: "yy-mm-dd"
+            });
+
+            $("#pprice, #pqty").on("input", function(){
+                var qunti = parseInt($("#pqty").val()) || 0;
+                var PPrice = parseFloat($("#pprice").val()) || 0;
+                var total = qunti * PPrice;
+                $("#ptotal").val(total.toFixed(2));
+            });
+
+            var products = [];
+
+            //ADD ROW
+            $(document).on("click","#addRow",function(e){
+                e.preventDefault();
+
+                var prod = {
+                    PName: $("#pname").val().toLowerCase(),
+                    PQuantity: parseFloat($("#pqty").val()),
+                    PPrice: parseFloat($("#pprice").val()),
+                    Total: parseFloat($("#pqty").val()) * parseFloat($("#pprice").val())
+                };
+
+                if(prod.PName !== "" && prod.PQuantity !== "" && prod.PQuantity > 0 && prod.PPrice !== "" && prod.PPrice > 0 && prod.Total !== "")
+                {
+                      products.push(prod);
+                      renderTable();
+                        // prod = {};
+                      $("#pname, #pqty, #pprice, #ptotal").val('');
+                }
+                else{
+                    alert("Please fill the valid product details.");
+                }
+            });
+
+            function renderTable() {
+                $(".TotalProducts").empty(); // clear table
+                products.forEach(function (item, index) {
+                    let Row = `
+                        <tr>
+                            <td>${item.PName}</td>
+                            <td>${item.PQuantity}</td>
+                            <td>${item.PPrice}</td>
+                            <td style="width: 135px">${item.Total}</td>
+                            <td style="width: 120px">
+                                <button class="btn btn-danger DeleteRecord" data-index="${index}">Delete</button>
+                            </td>
+                        </tr>`;
+                    $(".TotalProducts").append(Row);
+                });
+            }
+            // Delete Row
+            $(document).on("click", ".DeleteRecord", function (e) {
+                e.preventDefault();
+                let index = $(this).data("index");   // get index from button
+                products.splice(index, 1);           // remove from array
+                renderTable();                       // refresh table
+            });
+
+            $(document).on("click", "#saveUser", function (e) {
+                e.preventDefault();
+
+                // var pick = $("#PickDate").val();
+                // var isoDate = toIsoDate(pick);
+
+                let user = {
+                    UserName: $("#UserName").val(),
+                    UserAddress: $("#UserAddress").val(),
+                    PhoneNumber: $("#PhoneNumber").val(),
+                    PurchaseDate: $("#PickDate").val(),
+                    // PurchaseDate: isoDate,
+                    Products: products
+                };
+
+                $.ajax({
+                    url: '/Invoice/CreateUser',
+                    type: 'POST',
+                    contentType: 'application/json; charset=utf-8',
+                    data: JSON.stringify(user),
+                    success: function (response) {
+                        if (response && response.success) {
+                            window.location.href = "/Invoice/Index"; // redirect to list
+                        } else {
+                           alert("Error: " + (response && response.message ? response.message : "Save failed"));
+                        }
+                    },
+                    error: function(xhr, status, err) {
+                        alert("An error occurred: " + err);
+                    }
+                });
+            });
+        });
+    </script>
+}

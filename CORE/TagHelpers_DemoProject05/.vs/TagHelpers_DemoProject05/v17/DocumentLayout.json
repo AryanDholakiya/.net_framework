@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|e:\\git files\\.net\\core\\taghelpers_demoproject05\\taghelpers_demoproject05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D24523-FF2A-431F-83F7-F5C2F658F7FB}|TagHelpers_DemoProject05\\TagHelpers_DemoProject05.csproj|solutionrelative:taghelpers_demoproject05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\libman.json",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\libman.json",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\libman.json",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T06:51:29.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T04:30:14.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\Models\\UserModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Models\\UserModel.cs",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:09:06.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T10:50:58.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T10:49:45.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T10:49:39.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T10:48:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:45:28.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Program.cs",
+              "RelativeDocumentMoniker": "TagHelpers_DemoProject05\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\TagHelpers_DemoProject05\\TagHelpers_DemoProject05\\Program.cs",
+              "RelativeToolTip": "TagHelpers_DemoProject05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:42:38.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

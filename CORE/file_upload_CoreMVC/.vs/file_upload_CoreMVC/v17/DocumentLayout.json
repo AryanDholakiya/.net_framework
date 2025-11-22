@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\controllers\\personinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\controllers\\personinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\views\\personinfo\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\views\\personinfo\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\data\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\data\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\views\\personinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\views\\personinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\file_upload_coremvc\\file_upload_coremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DCB5937-ACF6-46A8-80DD-E6CA455A0BED}|file_upload_CoreMVC\\file_upload_CoreMVC.csproj|solutionrelative:file_upload_coremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersoninfoController.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Controllers\\PersoninfoController.cs",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\Controllers\\PersoninfoController.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Controllers\\PersoninfoController.cs",
+              "RelativeToolTip": "file_upload_CoreMVC\\Controllers\\PersoninfoController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:01:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "file_upload_CoreMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:00:26.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Data\\PersonData.cs",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\Data\\PersonData.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Data\\PersonData.cs",
+              "RelativeToolTip": "file_upload_CoreMVC\\Data\\PersonData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:33:51.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Program.cs",
+              "RelativeToolTip": "file_upload_CoreMVC\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:38:54.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\appsettings.json",
+              "RelativeToolTip": "file_upload_CoreMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T06:38:22.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Models\\Person.cs",
+              "RelativeToolTip": "file_upload_CoreMVC\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:27:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Views\\Personinfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\Views\\Personinfo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Views\\Personinfo\\Index.cshtml",
+              "RelativeToolTip": "file_upload_CoreMVC\\Views\\Personinfo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T06:26:14.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Views\\Personinfo\\Upload.cshtml",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\Views\\Personinfo\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Views\\Personinfo\\Upload.cshtml",
+              "RelativeToolTip": "file_upload_CoreMVC\\Views\\Personinfo\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T05:41:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "file_upload_CoreMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\file_upload_CoreMVC\\file_upload_CoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "file_upload_CoreMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:05:55.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

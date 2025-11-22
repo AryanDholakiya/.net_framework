@@ -1,0 +1,71 @@
+﻿@model IEnumerable<JQueryAndAjaxCRUD2.Models.Email>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="SendEmail" class="btn btn-primary">Create New</a>
+</p>
+@{
+    if (TempData["Message"] != null)
+    {
+        <h4 style="transition:ease-in-out" class="text-success">@TempData["Message"]</h4>
+    }
+}
+
+<table class="table table-bordered border-secondary-subtle text-center">
+    <thead>
+        <tr>
+            <th style="width:30%">
+                @Html.DisplayNameFor(model => model.ToEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subject)
+            </th>
+            @* <th>
+                @Html.DisplayNameFor(model => model.Message)
+            </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.SentDate)
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ToEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Subject)
+                </td>
+                @* <td>
+                @Html.DisplayFor(modelItem => item.Message)
+            </td> *@
+                <td>
+                    @item.SentDate?.ToString("dd-MM-yyyy")
+                </td>
+                <td>
+                    <a asp-action="Delete" class="btn btn-danger" onclick="return confirm('Are you sure to delete the Record?')" asp-route-id="@item.EId">Delete</a>
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    var success = document.getElementsByClassName("text-success")[0];
+        if(success){
+        setTimeout(() => {
+          success?.classList.add("fade-out")
+        },2000);
+    }
+</script>

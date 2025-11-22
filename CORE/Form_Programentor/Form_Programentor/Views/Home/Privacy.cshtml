@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="container">
+    @if(TempData["successfully"] != null)
+    {
+        <div class="alert alert-success">Employee-@TempData["successfully"]</div>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            Oops! there is an issue.<a class="btn btn-Primary text-danger text-decoration-underline" asp-action="Index">Register Again</a>
+        </div>
+    }
+</div>

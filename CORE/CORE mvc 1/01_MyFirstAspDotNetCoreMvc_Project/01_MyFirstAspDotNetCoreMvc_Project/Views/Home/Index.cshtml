@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    ViewData["SubTitle"] = "This is how we show the title using ViewData";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h1>@ViewData["Title"]</h1>
+    <p>@ViewData["subTitle"]</p>
+    <p>Learn about <a asp-controller="StudentData" asp-action="ListStudent">Go To StudentList Page</a>.</p>
+</div>

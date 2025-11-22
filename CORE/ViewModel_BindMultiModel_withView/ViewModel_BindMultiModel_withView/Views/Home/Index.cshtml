@@ -1,0 +1,91 @@
+﻿@model ViewModel_BindMultiModel_withView.Models.SchoolViewModel
+@* @model IEnumerable<ViewModel_BindMultiModel_withView.Models.Student>    --> the main concept is here that we can't bind the multiple models with single view... -- so will will create a third view and pass the both models into it as a property*@  
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Student table</h2>
+
+<table class="table table-bordered text-center">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MyStudents[0].Sid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MyStudents[0].Sname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MyStudents[0].Saddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MyStudents[0].Sstd)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+       @foreach (var stu in Model.MyStudents)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => stu.Sid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => stu.Sname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => stu.Saddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => stu.Sstd)
+            </td>
+        </tr>
+        }
+
+    </tbody>
+</table>
+<br />
+
+<h2>Employee table</h2>
+
+<table class="table table-bordered text-center">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MyEmployees[1].EmpId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MyEmployees[1].EmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MyEmployees[1].EmpEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MyEmployees[1].EmpSalary)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var Emp in Model.MyEmployees)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => Emp.EmpId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Emp.EmpName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Emp.EmpEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Emp.EmpSalary)
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>

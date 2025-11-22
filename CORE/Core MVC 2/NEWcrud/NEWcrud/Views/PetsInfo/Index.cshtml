@@ -1,0 +1,78 @@
+﻿@model IEnumerable<NEWcrud.Models.Pet>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a class="btn btn-outline-primary" asp-action="CreatePet">Create New</a>
+</p>
+<table class="table table-bordered text-center border-secondary table-hover ">
+    <thead class="table table-dark text-white border border-0 border-white">
+        <tr class="">
+            <th>
+               Pet Photo
+            </th>
+            <th>
+               Pet Name
+            </th>
+            <th>
+                Age
+            </th>
+            <th>
+               Date of Adoption
+            </th>
+            <th>
+                Gender
+            </th>
+            <th>
+                Breed Of Pet
+            </th>
+            <th>
+                Pet Country
+            </th>
+            <th>
+                Hobbies
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class=" ">
+            <td>
+                    <img src="~/images/@item.PetPhoto" height="60px" width="60px"  /> 
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.petName)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.petAge)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.petAdoptedDate)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.petGender)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.petBreed)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.petCountries.countryName)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Hobbies)
+            </td>
+            <td>
+                    <a asp-action="EditPet" class="btn btn-info" asp-route-id="@item.petId">Edit</a> |
+                    <a asp-action="DeletePet" class="btn btn-danger" asp-route-id="@item.petId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

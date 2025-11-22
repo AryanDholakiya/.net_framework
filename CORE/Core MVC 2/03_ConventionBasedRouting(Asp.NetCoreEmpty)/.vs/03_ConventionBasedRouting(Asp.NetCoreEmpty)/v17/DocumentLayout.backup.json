@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\03_conventionbasedrouting(asp.netcoreempty)\\03_conventionbasedrouting(asp.netcoreempty)\\contollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|solutionrelative:03_conventionbasedrouting(asp.netcoreempty)\\contollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\03_conventionbasedrouting(asp.netcoreempty)\\03_conventionbasedrouting(asp.netcoreempty)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|solutionrelative:03_conventionbasedrouting(asp.netcoreempty)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\03_conventionbasedrouting(asp.netcoreempty)\\03_conventionbasedrouting(asp.netcoreempty)\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|solutionrelative:03_conventionbasedrouting(asp.netcoreempty)\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\03_conventionbasedrouting(asp.netcoreempty)\\03_conventionbasedrouting(asp.netcoreempty)\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|solutionrelative:03_conventionbasedrouting(asp.netcoreempty)\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\03_conventionbasedrouting(asp.netcoreempty)\\03_conventionbasedrouting(asp.netcoreempty)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|solutionrelative:03_conventionbasedrouting(asp.netcoreempty)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|c:\\users\\mahadev\\onedrive\\desktop\\core mvc\\03_conventionbasedrouting(asp.netcoreempty)\\03_conventionbasedrouting(asp.netcoreempty)\\contollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744D3B61-BF71-478B-BBF5-93BDF2DCCDA0}|03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty).csproj|solutionrelative:03_conventionbasedrouting(asp.netcoreempty)\\contollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T09:37:00.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T09:28:46.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T08:44:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Contollers\\UserController.cs",
+              "RelativeDocumentMoniker": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Contollers\\UserController.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Contollers\\UserController.cs",
+              "RelativeToolTip": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Contollers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:27:43.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Contollers\\HomeController.cs",
+              "RelativeDocumentMoniker": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Contollers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Contollers\\HomeController.cs",
+              "RelativeToolTip": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Contollers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:44:08.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Program.cs",
+              "RelativeDocumentMoniker": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Program.cs",
+              "ToolTip": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Core MVC\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Program.cs",
+              "RelativeToolTip": "03_ConventionBasedRouting(Asp.NetCoreEmpty)\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:40:37.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿@model TagHelpers_DemoProject05.Models.UserModel;
+@{
+    ViewData["Title"] = "User Registration";
+}
+<div class="container">
+    <h1 class="text-decoration-underline">Register User</h1>
+
+    <form asp-action="Register" method="post" class="p-4 border rounded shadow">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control border border-secondary-subtle" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control border border-secondary-subtle" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Age" class="form-label"></label>
+            <input asp-for="Age" class="form-control border border-secondary-subtle" placeholder="Enter Age" />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary border border-secondary-subtle">Register</button>
+    </form>
+
+    <hr>
+
+    <br />
+    <h2 class="text-decoration-underline">Other Tag Helper Examples:</h2>
+    <p>
+        Go to Home:
+        <a asp-controller="Home" asp-action="Index" class="btn btn-info border border-secondary-subtle">Home Page</a>
+    </p>
+
+
+    <br />
+    <h3 class="text-decoration-underline">ImageTagHelper Example:</h3>
+    <img src="~/Images/pc.jpg" asp-append-version="true" height="200" width="400" class="image-fluid rounded" />
+    @* asp-append-version useful to save the url path of image. if you change the image then it will be change according to it so there is no any issue related to browser cache. *@
+    @* if stored imagefile will remain same then image will retrieve(render) from browser itself so it saves the time, if path of the stored  got changed then image will be rendered from the server.  *@
+</div>
+
+

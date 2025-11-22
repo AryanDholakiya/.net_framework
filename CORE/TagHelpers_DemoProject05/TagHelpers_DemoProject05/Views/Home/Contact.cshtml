@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>Contact</h1>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        <strong>Success!</strong> @TempData["Success"];
+    </div>
+}
+else
+{
+    <div Class="alert alert-info">
+        Oops!,Require To<a class="btn btn-Primary text-danger text-decoration-underline" asp-action="Index">Register again</a>
+    </div>
+}

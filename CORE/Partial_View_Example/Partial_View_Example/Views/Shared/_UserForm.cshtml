@@ -1,0 +1,26 @@
+﻿@model Partial_View_Example.Models.User
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/Partial_View_Example.styles.css" asp-append-version="true" />
+
+<input type="hidden" asp-for="SId"  />
+
+<div class="container">
+    <div class="form-group mb-2">
+        <label asp-for="SName"></label>
+        <input type="text" asp-for="SName" class="form-control" />
+        @* if we want to take a "name" attr here then we must have to take it as same as the model field, otherwise name attr overrides the asp-for and model will not working as aspected. *@
+        <span asp-validation-for="SName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-2">
+        <label asp-for="SAddress"></label>
+        <input type="text" asp-for="SAddress" class="form-control" />
+        <span asp-validation-for="SAddress" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-2">
+        <label asp-for="Sstd"></label>
+        <input type="number" asp-for="Sstd" class="form-control" />
+        <span asp-validation-for="Sstd" class="text-danger"></span>
+    </div>
+</div>

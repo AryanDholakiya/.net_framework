@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\Form_Programentor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|e:\\git files\\.net\\core\\form_programentor\\form_programentor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|solutionrelative:form_programentor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|e:\\git files\\.net\\core\\form_programentor\\form_programentor\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|solutionrelative:form_programentor\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|e:\\git files\\.net\\core\\form_programentor\\form_programentor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|solutionrelative:form_programentor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|e:\\git files\\.net\\core\\form_programentor\\form_programentor\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|solutionrelative:form_programentor\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|e:\\git files\\.net\\core\\form_programentor\\form_programentor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|solutionrelative:form_programentor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|e:\\git files\\.net\\core\\form_programentor\\form_programentor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|solutionrelative:form_programentor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|e:\\git files\\.net\\core\\form_programentor\\form_programentor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|solutionrelative:form_programentor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|e:\\git files\\.net\\core\\form_programentor\\form_programentor\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D433D07-52F0-49E4-A944-380AA9B48054}|Form_Programentor\\Form_Programentor.csproj|solutionrelative:form_programentor\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Form_Programentor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Form_Programentor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T04:45:11.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\appsettings.json",
+              "RelativeDocumentMoniker": "Form_Programentor\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\appsettings.json",
+              "RelativeToolTip": "Form_Programentor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T04:38:24.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Form_Programentor\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Form_Programentor\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:32:43.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Program.cs",
+              "RelativeDocumentMoniker": "Form_Programentor\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Program.cs",
+              "RelativeToolTip": "Form_Programentor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:59:25.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Form_Programentor\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Form_Programentor\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T07:44:39.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Form_Programentor\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Form_Programentor\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:53:19.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Form_Programentor\\Models\\Employee.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Models\\Employee.cs",
+              "RelativeToolTip": "Form_Programentor\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:52:40.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Form_Programentor\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\Form_Programentor\\Form_Programentor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Form_Programentor\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T06:25:37.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\FormMaking2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\views\\home\\first.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\views\\home\\first.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\views\\home\\emprecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\views\\home\\emprecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|e:\\git files\\.net\\core\\formmaking2\\formmaking2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655741CC-4096-406C-806A-5A0D94045053}|FormMaking2\\FormMaking2.csproj|solutionrelative:formmaking2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FormMaking2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FormMaking2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T05:23:48.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FormMaking2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FormMaking2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T05:58:27.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FormMaking2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FormMaking2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T11:57:36.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpRecord.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Home\\EmpRecord.cshtml",
+              "RelativeDocumentMoniker": "FormMaking2\\Views\\Home\\EmpRecord.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Home\\EmpRecord.cshtml",
+              "RelativeToolTip": "FormMaking2\\Views\\Home\\EmpRecord.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T11:45:08.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FormMaking2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FormMaking2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:33:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FormMaking2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FormMaking2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:20:19.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "First.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Home\\First.cshtml",
+              "RelativeDocumentMoniker": "FormMaking2\\Views\\Home\\First.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Home\\First.cshtml",
+              "RelativeToolTip": "FormMaking2\\Views\\Home\\First.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T11:18:16.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormMaking2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FormMaking2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T10:19:08.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "FormMaking2\\Models\\Employees.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\FormMaking2\\FormMaking2\\Models\\Employees.cs",
+              "RelativeToolTip": "FormMaking2\\Models\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:50:11.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

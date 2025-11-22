@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+@{
+    if (TempData["AcceptedTerms"] != null)
+    {
+        <div class="alert alert-success">@TempData["AcceptedTerms"]</div>
+    }
+
+<h2>Privacy Page</h2>
+}
+

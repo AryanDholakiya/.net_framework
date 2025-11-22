@@ -1,0 +1,22 @@
+﻿@model DropDownList_12.Models.DropDown;//must needed line to bind the properties of this model
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    <label class="form-label">Select Hobby Field using the List in Controller:</label>
+
+    <select name="Any" asp-items="@ViewBag.JobRole" class="form-control">
+        <option value="" disabled selected>Select JobRole</option>
+    </select>
+    <br />
+
+    <lebel class="form-label" asp-for="jobrole">Select Hobby Field using the Enum in Model:</lebel>
+    <select asp-for="any" asp-items="Html.GetEnumSelectList<Dropdown>()" class="form-control">
+        <option value="" name="any" selected disabled>select Job role</option>
+    </select>
+</div>

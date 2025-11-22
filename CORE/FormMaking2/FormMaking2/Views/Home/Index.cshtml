@@ -1,0 +1,42 @@
+﻿@model FormMaking2.Models.Employees;  //this line we have to add when we create empty view
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <h1>Employees Form</h1>
+    <div class="row">
+        <form asp-action="Register" method="post" class="p-4 border rounded-3 col-8 mx-auto shadow">
+            <div class=" d-flex justify-content-end">
+                <button asp-action="First" class="btn btn-danger">Home</button>
+            </div>
+            <div class="mb-3">
+                <label asp-for="EmpId" class="form-label">Employee Id:</label>
+                <input type="text" asp-for="EmpId" class="form-control border border-secondary" />
+                <span asp-validation-for="EmpId" class="text-danger"></span>
+            </div>
+            <div class="mb-3 ">
+                <label asp-for="Name" class="form-label">Employee Name:</label>
+                <input type="text" asp-for="Name" class="form-control border border-secondary" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Designation" class="form-label">Employee Designation:</label>
+                <input type="text" asp-for="Designation" class="form-control border border-secondary" />
+                <span asp-validation-for="Designation" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="ContactNumber" class="form-label">ContactNumber:</label>
+                <input type="text" asp-for="ContactNumber" class="form-control border border-secondary" />
+                <span asp-validation-for="ContactNumber" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Add</button>
+            <button type="reset" class="btn btn-warning">Clear Form</button>
+
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

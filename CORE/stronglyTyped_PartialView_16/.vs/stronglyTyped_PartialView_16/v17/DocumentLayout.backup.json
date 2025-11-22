@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|e:\\git files\\.net\\core\\stronglytyped_partialview_16\\stronglytyped_partialview_16\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|solutionrelative:stronglytyped_partialview_16\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|e:\\git files\\.net\\core\\stronglytyped_partialview_16\\stronglytyped_partialview_16\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|solutionrelative:stronglytyped_partialview_16\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|e:\\git files\\.net\\core\\stronglytyped_partialview_16\\stronglytyped_partialview_16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|solutionrelative:stronglytyped_partialview_16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|e:\\git files\\.net\\core\\stronglytyped_partialview_16\\stronglytyped_partialview_16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|solutionrelative:stronglytyped_partialview_16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|e:\\git files\\.net\\core\\stronglytyped_partialview_16\\stronglytyped_partialview_16\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|solutionrelative:stronglytyped_partialview_16\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|e:\\git files\\.net\\core\\stronglytyped_partialview_16\\stronglytyped_partialview_16\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|solutionrelative:stronglytyped_partialview_16\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|e:\\git files\\.net\\core\\stronglytyped_partialview_16\\stronglytyped_partialview_16\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|solutionrelative:stronglytyped_partialview_16\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|e:\\git files\\.net\\core\\stronglytyped_partialview_16\\stronglytyped_partialview_16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30812F97-7E79-4771-A547-823C69B3A4E3}|stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16.csproj|solutionrelative:stronglytyped_partialview_16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "stronglyTyped_PartialView_16\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "stronglyTyped_PartialView_16\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T11:32:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "stronglyTyped_PartialView_16\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "stronglyTyped_PartialView_16\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T11:31:46.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "stronglyTyped_PartialView_16\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "stronglyTyped_PartialView_16\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T11:31:31.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "stronglyTyped_PartialView_16\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "stronglyTyped_PartialView_16\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T11:29:34.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ProductPartialView.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "stronglyTyped_PartialView_16\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeToolTip": "stronglyTyped_PartialView_16\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T11:19:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "stronglyTyped_PartialView_16\\Views\\Home\\Products.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "stronglyTyped_PartialView_16\\Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T11:08:18.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "stronglyTyped_PartialView_16\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "stronglyTyped_PartialView_16\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:07:25.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "stronglyTyped_PartialView_16\\Models\\Product.cs",
+              "ToolTip": "E:\\git files\\.Net\\CORE\\stronglyTyped_PartialView_16\\stronglyTyped_PartialView_16\\Models\\Product.cs",
+              "RelativeToolTip": "stronglyTyped_PartialView_16\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:03:52.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+﻿@model NEWcrud.Models.PetCreate
+
+
+@{
+    ViewData["Title"] = "CreatePet";
+}
+
+<h1 class="text-decoration-underline">Add Pet</h1>
+
+<hr />
+<div class="row mb-2 d-flex">
+    <div class="col-md-5">
+        <form asp-action="CreatePet" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="file" class="control-label">Pet Photo:</label>
+                <input asp-for="file" type="file" class="form-control mb-1 border border-secondary" />
+                <span asp-validation-for="file" class="text-danger mb-1"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="petName" class="control-label">Pet Name:</label>
+                <input asp-for="petName" class="form-control mb-1 border border-secondary" />
+                <span asp-validation-for="petName" class="text-danger mb-1"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="petAge" class="control-label">Pet Age:</label>
+                <input asp-for="petAge" class="form-control mb-1 border border-secondary" />
+                <span asp-validation-for="petAge" class="text-danger mb-1"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="petAdoptedDate" class="control-label">Date of Adoption:</label>
+                <input asp-for="petAdoptedDate" id="petAdoptedDate" class="form-control mb-2 border border-secondary" />
+                <span asp-validation-for="petAdoptedDate" class="text-danger mb-1"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="petGender" class="control-label text-decoration-underline">Gender: </label> <br />
+                <input type="radio" asp-for="petGender" class="form-check-input gender border border-secondary" value="Male" /> Male
+                <input type="radio" asp-for="petGender" class="form-check-input gender ms-2 border border-secondary" value="Female" /> Female
+                <span asp-validation-for="petGender" class="text-danger mb-2"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="petBreed" name="breed" class="control-label text-decoration-underline">Breed: </label> <br />
+
+                <select class="form-select border border-secondary" asp-for="petBreed" aria-label="Default select example">
+                    <option selected>Open this select menu</option>
+                    <option name="breed" value="Cat">Cat</option>
+                    <option name="breed" value="Dog">Dog</option>
+                    <option name="breed" value="Horse">Horse</option>
+                    <option name="breed" value="Cow">Cow</option>
+                    <option name="breed" value="other">other</option>
+                </select>
+
+                <span asp-validation-for="petBreed" class="text-danger mb-2"></span>
+            </div>
+
+            <div class="form-group mb-2">
+                <label asp-for="petCountries" name="country" class="control-label text-decoration-underline">Country: </label> <br />
+                <select class="form-select border border-secondary" asp-for="PetCountryId" asp-items="ViewBag.CountryList" aria-label="Default select example">
+                    <option selected disabled>Open this select menu</option>
+                </select>
+                <span asp-validation-for="petCountries" class="text-danger mb-2"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Hobbies" class="control-label text-decoration-underline">Hobbies: </label> <br />
+                <input type="checkbox" name="hobby" class="form-check-input me-1" value="Playing" />Playing
+                <input type="checkbox" name="hobby" class="form-check-input ms-3 me-1" value="Dancing" />Dancing
+                <input type="checkbox" name="hobby" class="form-check-input ms-3 me-1" value="Singing" />Singing
+                <input type="checkbox" name="hobby" class="form-check-input ms-3 me-1" value="Travelling" />Travelling
+                <input type="checkbox" name="hobby" class="form-check-input ms-3 me-1" value="Exploring" />Exploring
+                <span asp-validation-for="Hobbies" class="text-danger mb-2"></span>
+            </div>
+
+            <div class="d-flex">
+                <div class="form-group me-3">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+                <div>
+                    <a class="btn btn-warning" asp-action="Index">Back to List</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

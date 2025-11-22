@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>TempData controller's Contact</h1>
+
+<h2>@ViewData["VData1"]</h2>
+<h2>@ViewBag.ViewBag</h2>
+<h2>@TempData["TempData"]</h2>
+
+<h2>Array in TempData:</h2>
+
+@{
+    foreach (var items in (string[])TempData["TempArray"])     //error
+    {
+        <h4>@items</h4>
+    }
+}

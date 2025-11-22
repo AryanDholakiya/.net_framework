@@ -1,0 +1,72 @@
+﻿@model IEnumerable<LoginFormWithSession.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2 class="mb-3 text-decoration-underline">Registered Users</h2>
+
+@{
+    if (TempData["Success"] != null)
+    {
+        <p id="successmessage" style="color:forestgreen">@TempData["Success"]</p>
+    }
+}
+<table class="table table-bordered border border-2 border-secondary-subtle text-center table-hover">
+    <thead class="table table-secondary">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+@section Scripts{
+    <script>
+        setTimeout(function () {
+            var msg = document.getElementById("successmessage");
+
+            if(msg){
+                msg.style.display = "none";
+            }
+        }, 3000);
+    </script>
+}

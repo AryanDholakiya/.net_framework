@@ -1,0 +1,71 @@
+﻿@model IEnumerable<JQueryAndAjaxCRUD2.Models.ReviewModel>
+
+@{
+    ViewData["Title"] = "RIndex";
+}
+<style>
+    .ellipsis {
+        max-width: 80px;
+        word-wrap: break-word;
+        overflow: hidden;
+    }
+
+        .ellipsis p {
+            white-space: nowrap;
+            width: 100%;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        /* below css is for the specific line height of the tr */
+        .special_height td {
+            max-height: 40px;
+            overflow: hidden;
+        }
+
+        .fixed-cell {
+            max-height: 40px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+</style>
+
+<h1 class="text-decoration-underline" style="text-underline-offset: 5px">Reviews Index</h1>
+
+<p>
+    <a asp-action="RCreate" class="btn btn-primary mt-4">Add Query</a>
+</p>
+<table class="table table table-bordered text-center align-middle fixed-table">
+    <thead>
+        <tr>
+            <th style="width:15%">
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th style="max-width:65%" class="ellipsis">
+                @Html.DisplayNameFor(model => model.Review)
+            </th>
+            <th style="width:20%">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="special_height">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td class="ellipsis text-start">
+                    <div class="fixed-cell">
+                        @Html.Raw(@item.Review)
+                    </div>
+                    @* note this:: how convert the html formatted data into the simple. *@
+                </td>
+                <td>
+                    <a asp-action="REdit" class="btn btn-warning" asp-route-id="@item.RId">Edit</a> |
+                    <a asp-action="RDelete" class="btn btn-danger" onclick="return confirm('Are you sure for delete the Review?')" asp-route-id="@item.RId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

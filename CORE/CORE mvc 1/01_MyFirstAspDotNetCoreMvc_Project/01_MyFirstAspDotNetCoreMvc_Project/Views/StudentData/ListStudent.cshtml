@@ -1,0 +1,47 @@
+﻿@model IEnumerable<_01_MyFirstAspDotNetCoreMvc_Project.Models.Student>
+
+@{
+    ViewData["Title"] = "ListStudent";
+}
+
+<h3 class="text-decoration-underline underline-gap">List Of Student</h3>
+
+<p>
+    <a class="navbar-brand" asp-controller="StudentData" asp-action="CreateNewStudent">Create New Student</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentRollNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentRollNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentEmail)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.StudentRollNo  }) |
+                @Html.ActionLink("Details", "Details", new { id = item.StudentName }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.StudentEmail })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

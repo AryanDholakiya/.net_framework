@@ -1,0 +1,82 @@
+﻿@model IEnumerable<AjaxWithJQuery.Models.Employees>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpSalary)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody class="tbody">
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+                // Load Data in Table when document is ready
+        $(document).ready(function () {
+            loadData();
+        });
+
+        // Load Data function
+        function loadData() {
+            $.ajax({
+                url: "/EmpInfo/EmpList",
+                type: "GET",
+                success: function (result) {
+                    var html = '';
+                    $.each(result, function (key, item) {
+                        html += '<tr>';                      
+                        html += '<td>' + item.empName + '</td>';
+                        html += '<td>' + item.empEmail + '</td>';
+                        html += '<td>' + item.empSalary + '</td>';
+                        html += '<td> <button type="button" onclick="GetbyID(' + item.empId + ')" class="btn btn-primary">Edit</button> | <a href="#" class="btn btn-danger" onclick="Delete(' + item.empId + ')">Delete</a></td>';
+                        html += '</tr>';
+                    });
+                    $('.tbody').html(html);
+                },
+                error: function (errormessage) {
+                    alert(errormessage.responseText);
+                }
+            });
+        }
+
+         function GetbyID(id){
+             window.location.href = "/EmpInfo/Edit/" + id;
+         }
+
+
+        function Delete(id){
+            var confirm = window.confirm("Are Sure to delete the record?");
+            if(confirm){
+                $.ajax({
+                    url: "/EmpInfo/Delete/" + id,
+                    type: "POST",
+                    success: function (result) {
+                        loadData();
+                    },
+                      error: function (errormessage) {
+                          alert(errormessage.responseText);
+                      }
+                });
+            }
+        }
+    </script>
+}

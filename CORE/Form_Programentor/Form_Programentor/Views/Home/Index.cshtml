@@ -1,0 +1,86 @@
+﻿@model Form_Programentor.Models.Employee; // aa model ni properties bind krva manually lkhvi j pde aa line.
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a asp-action="Index">Model Binding(Form)</a>.</p>
+</div>
+@*How to Bind the data of model with form using the "asp-for" *@ 
+<div class="container">
+    <div class="row">
+        <div class="col-sm-10 col-lg-6  mx-auto">
+            <form asp-action="Index" asp-controller="Home" method="post" class="p-4 border border-1 border-secondary-subtle shadow d-grid gap-2" style="border-radius:19px">
+                @* ahi form tag ma asp-action="Index" aapvanu reason : aa form submit thse tyare e action method call thse *@
+                <div class="">
+                    <label asp-for="Name" class="form-label">Name:</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter Name" onkeypress="return /^[A-Za-z ]$/.test(event.key)" />
+                    @*NOTE: onkeypress="return /^[A-Za-z ]$/.test(event.key) --> aa lkhvathi user input filed ma char and space sivay kai enter j nai kri ske." *@
+                    @* asp-for automatically generates the input type="text" bcz binded property "Name" is typed string in model.. *@
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="">
+                    <label class="form-label d-block" asp-for="Gender">Gender:</label>
+                    <div class="form-check form-check-inline">
+                        <input type="radio" class="form-check-input" asp-for="Gender" value="Male">
+                        <label class="form-check-label" for="male">Male</label>
+                    </div>
+
+                    <div class="form-check form-check-inline">
+                        <input type="radio" class="form-check-input" asp-for="Gender" value="Female">
+                        <label class="form-check-label" for="female">Female</label>
+                    </div>
+
+                    @* NOTE: validator e tag na "name" attribute prthi lage 6. And name attribute ni value ane MOdel ni Property nu name jo same hoi to j validator lagse. jo aapne tag ma name attribute aapta j nathi to te haathe name attribute generate kri dese asp-for ni value je hse tene....--> etle dhyan rakho k jo name attribute aapo 6o athva auto "name" generated tag k jema autmatic "name" attr pelethi hoi to tene property na name sathe match kro. *@
+                    <span asp-validation-for="Gender" class="text-danger d-block"></span>
+                </div>
+
+                <div class="">
+                    <label class="form-label" asp-for="Age">Age:</label>
+                    <input asp-for="Age" class="form-control" placeholder="Enter Age" />
+                    <span asp-validation-for="Age" class="text-danger"></span>
+                </div>
+                <div class="">
+                    <label class="form-label" asp-for="Designation">Designation:</label>
+                    <select asp-for="Designation" class="form-control" asp-items="Html.GetEnumSelectList<designation>()"> 
+                        @* NOTE: asp-item and ENUM selecting code *@
+                        <option value="null" name="Designation" disabled selected>Select Designation</option>
+                    </select>
+                    <span asp-validation-for="Designation" class="text-danger"></span>
+                    @* NOTE: validation always field ni baar mukvanu hoi....jem k select field ni andr jo span mukvama ave to te work krse nai. *@
+                </div>
+                <div class="">
+                    <label class="form-label" asp-for="Salary">Salary(Per Month):</label>
+                    <input asp-for="Salary" class="form-control" placeholder="Enter Salary" />
+                    <span asp-validation-for="Salary" class="text-danger"></span>
+                </div>
+                <div class="">
+                    <label class="form-label" asp-for="Email">Email:</label>
+                    <input asp-for="Email" class="form-control" placeholder="Enter Email Address" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="">
+                    <label class="form-label" asp-for="Password">Password:</label>
+                    <input asp-for="Password" class="form-control" placeholder="Enter Password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="ConfirmPassword">Confirm Password:</label>
+                    <input asp-for="ConfirmPassword" class="form-control" placeholder="Re-Enter Password " />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="reset" class="btn btn-warning ">Reset</button>
+            </form>
+            @*NOTE: input field ni upprr na lable ma pn te j input field no "asp-for= " aapo.. jethi bnne bind thy jse. ane label pr click krta input field highlight thse *@
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,87 @@
+﻿@model JQueryAndAjaxCRUD2.Models.EmpModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>EmpModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="empPhoto" class="control-label"></label>
+                <input type="file" asp-for="empPhoto" class="form-control" />
+                <span asp-validation-for="empPhoto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="empName" class="control-label"></label>
+                <input asp-for="empName" class="form-control" />
+                <span asp-validation-for="empName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="empEmail" class="control-label"></label>
+                <input asp-for="empEmail" class="form-control" />
+                <span asp-validation-for="empEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmpSalary" class="control-label"></label>
+                <input asp-for="EmpSalary" class="form-control" />
+                <span asp-validation-for="EmpSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="button" id="AddBtn" value="Save" class="btn btn-primary mt-2" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function(){
+
+            $('#AddBtn').click(function(){
+                // var EmpObj = {
+                //     EmpName : $('#empName').val(),   #empName = asp-for --> you can inspect in browser
+                //     EmpEmail : $('#empEmail').val(),
+                //     EmpSalary : $('#EmpSalary').val(),
+                //     EmpPhoto: $('empPhoto').get().files(0);
+                // };
+
+                var formData = new FormData();
+                formData.append("Photo", $('#empPhoto').get(0).files[0]); //Note that photo file aa rite get kravi skay.
+                formData.append("EmpName", $("#empName").val()); // other fields too
+                formData.append("EmpEmail", $("#empEmail").val());
+                formData.append("EmpSalary", $("#EmpSalary").val());
+
+                //jo aapne photo add krvo 6 to object nai chalse (ex: EmpObj) but aapne formData() create krvo pde --> and ajax call ma processData: false, contentType: false, aapvu pde.
+                    
+
+                $.ajax({
+                    url: "/AllEmp/Create",
+                    data: formData, // now here we are passing data from formData not from EmpObj
+                    type: "POST",
+                    processData: false,
+                    contentType: false,
+                    success: function(result){
+                        window.location.href = "/AllEmp/Index"
+                    },
+                    error: function (errormessage) {
+                    alert(errormessage.responseText);
+                    }
+                });
+            });
+        });
+    </script>
+}
