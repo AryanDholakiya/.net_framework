@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|e:\\git files\\.net\\.net framework\\03_jwt_api_for_crudmanually\\03_jwt_api_for_crudmanually\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|solutionrelative:03_jwt_api_for_crudmanually\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|e:\\git files\\.net\\.net framework\\03_jwt_api_for_crudmanually\\03_jwt_api_for_crudmanually\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|solutionrelative:03_jwt_api_for_crudmanually\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|e:\\git files\\.net\\.net framework\\03_jwt_api_for_crudmanually\\03_jwt_api_for_crudmanually\\controllers\\jwttokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|solutionrelative:03_jwt_api_for_crudmanually\\controllers\\jwttokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|e:\\git files\\.net\\.net framework\\03_jwt_api_for_crudmanually\\03_jwt_api_for_crudmanually\\controllers\\slogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|solutionrelative:03_jwt_api_for_crudmanually\\controllers\\slogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|e:\\git files\\.net\\.net framework\\03_jwt_api_for_crudmanually\\03_jwt_api_for_crudmanually\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|solutionrelative:03_jwt_api_for_crudmanually\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|e:\\git files\\.net\\.net framework\\03_jwt_api_for_crudmanually\\03_jwt_api_for_crudmanually\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD41E122-C1D2-4E79-96D0-A40D1FE4B004}|03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually.csproj|solutionrelative:03_jwt_api_for_crudmanually\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JWTtokenController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Controllers\\JWTtokenController.cs",
+              "RelativeDocumentMoniker": "03_JWT_API_for_CRUDManually\\Controllers\\JWTtokenController.cs",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Controllers\\JWTtokenController.cs",
+              "RelativeToolTip": "03_JWT_API_for_CRUDManually\\Controllers\\JWTtokenController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:09:16.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SLoginController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Controllers\\SLoginController.cs",
+              "RelativeDocumentMoniker": "03_JWT_API_for_CRUDManually\\Controllers\\SLoginController.cs",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Controllers\\SLoginController.cs",
+              "RelativeToolTip": "03_JWT_API_for_CRUDManually\\Controllers\\SLoginController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:08:22.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "context.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Data\\context.cs",
+              "RelativeDocumentMoniker": "03_JWT_API_for_CRUDManually\\Data\\context.cs",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Data\\context.cs",
+              "RelativeToolTip": "03_JWT_API_for_CRUDManually\\Data\\context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:06:05.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "03_JWT_API_for_CRUDManually\\Models\\Login.cs",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Models\\Login.cs",
+              "RelativeToolTip": "03_JWT_API_for_CRUDManually\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:01:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Program.cs",
+              "RelativeDocumentMoniker": "03_JWT_API_for_CRUDManually\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\Program.cs",
+              "RelativeToolTip": "03_JWT_API_for_CRUDManually\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:34:32.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\appsettings.json",
+              "RelativeDocumentMoniker": "03_JWT_API_for_CRUDManually\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_JWT_API_for_CRUDManually\\03_JWT_API_for_CRUDManually\\appsettings.json",
+              "RelativeToolTip": "03_JWT_API_for_CRUDManually\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T06:30:35.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

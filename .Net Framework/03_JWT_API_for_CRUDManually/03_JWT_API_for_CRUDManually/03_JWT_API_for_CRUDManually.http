@@ -1,0 +1,6 @@
+@_03_JWT_API_for_CRUDManually_HostAddress = http://localhost:5285
+
+GET {{_03_JWT_API_for_CRUDManually_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Crud_InFrameworkModelStoreContainer" CdmEntityContainer="Crud_InFrameworkEntities">
+    <EntitySetMapping Name="students">
+      <EntityTypeMapping TypeName="Crud_InFrameworkModel.student">
+        <MappingFragment StoreEntitySet="students">
+          <ScalarProperty Name="SId" ColumnName="SId" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

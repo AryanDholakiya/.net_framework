@@ -1,0 +1,44 @@
+﻿@model IEnumerable<_02_CRUD__Using_Framework_.Models.student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", "", new { @class = "btn btn-primary"})
+</p>
+<table class="table table-bordered text-center">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th>Actions</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.SId }, new {@class = "btn btn-warning"}) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.SId }, new { @class = "btn btn-danger", onclick = "return confirm('Are you sure You want to Delete this record?')" })
+        </td>
+    </tr>
+}
+
+</table>

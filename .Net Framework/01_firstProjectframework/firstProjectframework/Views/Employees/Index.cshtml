@@ -1,0 +1,50 @@
+﻿@model IEnumerable<firstProjectframework.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", new {}, new { @class = "btn btn-primary" })
+</p>
+<table class="table table-bordered border border-secondary text-center">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.empName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.empEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmpSalary)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.empPhoto)
+        </th>*@
+        <th>Actions</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.empName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.empEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmpSalary)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.empPhoto)
+        </td>*@
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.empId }, new { @class = "btn btn-warning"}) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.empId }, new {@class = "btn btn-danger"})
+        </td>
+    </tr>
+}
+
+</table>

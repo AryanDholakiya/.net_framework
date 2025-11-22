@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|e:\\git files\\.net\\.net framework\\01_firstprojectframework\\firstprojectframework\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstprojectframework\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstprojectframework\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstprojectframework\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstprojectframework\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstprojectframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstprojectframework\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstprojectframework\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstprojectframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D83F39-899B-4705-A650-F1212EA652BA}|firstProjectframework\\firstProjectframework.csproj|solutionrelative:firstprojectframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "firstProjectframework\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "firstProjectframework\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T09:03:43.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "firstProjectframework\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "firstProjectframework\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T09:03:43.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "firstProjectframework\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "firstProjectframework\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T08:59:42.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "firstProjectframework\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "firstProjectframework\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T08:59:34.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "firstProjectframework\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "firstProjectframework\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T06:50:34.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "firstProjectframework\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "firstProjectframework\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:49:13.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "firstProjectframework\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "firstProjectframework\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:48:54.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "firstProjectframework\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "firstProjectframework\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T06:29:22.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "firstProjectframework\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\01_firstProjectframework\\firstProjectframework\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "firstProjectframework\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:26:21.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

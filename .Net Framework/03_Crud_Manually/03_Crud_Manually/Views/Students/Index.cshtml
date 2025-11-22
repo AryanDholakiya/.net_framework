@@ -1,0 +1,93 @@
+﻿@model IEnumerable<_03_Crud_Manually.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", "", new { @class = "btn btn-primary" })
+</p>
+
+@*NOTE : This is for the search filter*@
+@using (Html.BeginForm("search", "students", FormMethod.Get, new { @class = "mb-4" }))
+{
+    <input type="text" value="" class="form-control border border-secondary" name="search" placeholder="Search by Name or Email..." style="width:300px; display:inline-block;" id="searchBox">
+}
+@*"name" attribute is most valuable*@
+@*@using (Html.BeginForm("Index", "student", FormMethod.Get)) means --> <form action="/student/index" method="get">   -->basically it is Razor syntax*@
+@*/student/index?search=value  --> this will go to index method in controller*@
+
+
+<table class="table table-bordered align-middle text-center" id="studentsTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.SId }, new { @class = "btn btn-success" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.SId }, new { @class = "btn btn-danger", Onclick = "return confirm('Are you sure You want to Delete this record?')" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            document.querySelector("#searchBox").addEventListener("keyup", function () {
+                var text = $(this).val();
+
+                $.ajax({
+                    url: '/Students/Search',
+                    type: 'GET',
+                    data: { search: text },
+                    success: function (res) {
+
+                        $("#studentsTable tbody").empty()
+
+                        res.forEach(function (item) {
+                            let row = `<tr>
+                                        <td>${item.FullName}</td>
+                                        <td>${item.Email}</td>
+                                        <td>${item.Age}</td>
+                                        <td>
+                                           <a href="/Students/Edit/${item.SId}" class="btn btn-success">Edit</a> ||
+                                           <a href="/Students/Delete/${item.SId}" onclick="return confirm('Are you sure You want to Delete this record?')" class="btn btn-danger">Delete</a>
+                                        </td>
+                                    </tr>`
+                            $("#studentsTable tbody").append(row);
+                        });
+                    }
+                })
+            })
+        })
+    </script>
+}
