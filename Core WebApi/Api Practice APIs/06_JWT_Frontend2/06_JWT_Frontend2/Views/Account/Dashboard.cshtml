@@ -1,0 +1,40 @@
+﻿@model IEnumerable<_06_JWT_Frontend2.Models.LoginModel>
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Dashboard Of Total Registred User</h1>
+
+
+<table class="table table-bordered border-secondary-subtle text-center">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

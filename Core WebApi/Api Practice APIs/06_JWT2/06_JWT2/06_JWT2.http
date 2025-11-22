@@ -1,0 +1,6 @@
+@_06_JWT2_HostAddress = http://localhost:5108
+
+GET {{_06_JWT2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

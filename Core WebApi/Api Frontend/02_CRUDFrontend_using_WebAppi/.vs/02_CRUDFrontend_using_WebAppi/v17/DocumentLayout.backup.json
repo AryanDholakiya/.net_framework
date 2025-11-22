@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|e:\\git files\\.net\\core webapi\\api frontend\\02_crudfrontend_using_webappi\\02_crudfrontend_using_webappi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2A4B7-7971-4AD7-94E0-9D934D3259AA}|02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi.csproj|solutionrelative:02_crudfrontend_using_webappi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:23:38.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T07:27:58.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T06:52:04.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T06:42:47.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Program.cs",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Program.cs",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:23:11.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T06:21:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T05:05:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Models\\Student.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Models\\Student.cs",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:53:29.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "02_CRUDFrontend_using_WebAppi\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Frontend\\02_CRUDFrontend_using_WebAppi\\02_CRUDFrontend_using_WebAppi\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "02_CRUDFrontend_using_WebAppi\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T10:40:41.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

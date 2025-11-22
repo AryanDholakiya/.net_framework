@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\06_jwt2\\06_jwt2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|solutionrelative:06_jwt2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\06_jwt2\\06_jwt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|solutionrelative:06_jwt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\06_jwt2\\06_jwt2\\controllers\\jwttockencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|solutionrelative:06_jwt2\\controllers\\jwttockencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\06_jwt2\\06_jwt2\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|solutionrelative:06_jwt2\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\06_jwt2\\06_jwt2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|solutionrelative:06_jwt2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\06_jwt2\\06_jwt2\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|solutionrelative:06_jwt2\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\06_jwt2\\06_jwt2\\06_jwt2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|solutionrelative:06_jwt2\\06_jwt2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\06_jwt2\\06_jwt2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B43D0F0-F98A-47BF-BB37-44DEF6D94827}|06_JWT2\\06_JWT2.csproj|solutionrelative:06_jwt2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "context.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Data\\context.cs",
+              "RelativeDocumentMoniker": "06_JWT2\\Data\\context.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Data\\context.cs",
+              "RelativeToolTip": "06_JWT2\\Data\\context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:12:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProtectedController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Controllers\\ProtectedController.cs",
+              "RelativeDocumentMoniker": "06_JWT2\\Controllers\\ProtectedController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Controllers\\ProtectedController.cs",
+              "RelativeToolTip": "06_JWT2\\Controllers\\ProtectedController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:25:26.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "06_JWT2\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Models\\LoginModel.cs",
+              "RelativeToolTip": "06_JWT2\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:32:55.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JWTtockenController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Controllers\\JWTtockenController.cs",
+              "RelativeDocumentMoniker": "06_JWT2\\Controllers\\JWTtockenController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Controllers\\JWTtockenController.cs",
+              "RelativeToolTip": "06_JWT2\\Controllers\\JWTtockenController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:27:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\appsettings.json",
+              "RelativeDocumentMoniker": "06_JWT2\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\appsettings.json",
+              "RelativeToolTip": "06_JWT2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T06:49:50.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "06_JWT2\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "06_JWT2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T05:25:36.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Program.cs",
+              "RelativeDocumentMoniker": "06_JWT2\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\Program.cs",
+              "RelativeToolTip": "06_JWT2\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:24:56.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "06_JWT2.http",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\06_JWT2.http",
+              "RelativeDocumentMoniker": "06_JWT2\\06_JWT2.http",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\06_JWT2\\06_JWT2\\06_JWT2.http",
+              "RelativeToolTip": "06_JWT2\\06_JWT2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-13T10:24:42.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

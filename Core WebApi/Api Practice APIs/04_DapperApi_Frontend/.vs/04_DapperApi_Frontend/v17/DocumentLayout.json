@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\04_dapperapi_frontend\\04_dapperapi_frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|solutionrelative:04_dapperapi_frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\04_dapperapi_frontend\\04_dapperapi_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|solutionrelative:04_dapperapi_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\04_dapperapi_frontend\\04_dapperapi_frontend\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|solutionrelative:04_dapperapi_frontend\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\04_dapperapi_frontend\\04_dapperapi_frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|solutionrelative:04_dapperapi_frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\04_dapperapi_frontend\\04_dapperapi_frontend\\models\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8966D7-3693-4468-808B-85EAAA8679B0}|04_DapperApi_Frontend\\04_DapperApi_Frontend.csproj|solutionrelative:04_dapperapi_frontend\\models\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "04_DapperApi_Frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "04_DapperApi_Frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:00:19.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "04_DapperApi_Frontend\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\Program.cs",
+              "RelativeToolTip": "04_DapperApi_Frontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:36:17.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\appsettings.json",
+              "RelativeDocumentMoniker": "04_DapperApi_Frontend\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\appsettings.json",
+              "RelativeToolTip": "04_DapperApi_Frontend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T04:32:30.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "04_DapperApi_Frontend\\Controllers\\PersonsController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "04_DapperApi_Frontend\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:31:39.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persons.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\Models\\Persons.cs",
+              "RelativeDocumentMoniker": "04_DapperApi_Frontend\\Models\\Persons.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\04_DapperApi_Frontend\\04_DapperApi_Frontend\\Models\\Persons.cs",
+              "RelativeToolTip": "04_DapperApi_Frontend\\Models\\Persons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:20:15.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

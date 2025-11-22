@@ -1,0 +1,6 @@
+@_03_CRUDAPI_using_Dapper_HostAddress = http://localhost:5226
+
+GET {{_03_CRUDAPI_using_Dapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

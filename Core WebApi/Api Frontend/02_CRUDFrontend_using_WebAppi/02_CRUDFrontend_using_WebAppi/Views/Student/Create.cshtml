@@ -1,0 +1,58 @@
+﻿@model _02_CRUDFrontend_using_WebAppi.Models.Student
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Student</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @* <div class="form-group">
+                <label asp-for="grNumber" class="control-label"></label>
+                <input asp-for="grNumber" class="form-control" />
+                <span asp-validation-for="grNumber" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <label asp-for="sname" class="control-label">Name</label>
+                <input asp-for="sname" class="form-control" />
+                <span asp-validation-for="sname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sgender" class="control-label">Gender</label>
+                <input asp-for="sgender" class="form-control" />
+                <span asp-validation-for="sgender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sage" class="control-label">Age</label>
+                <input asp-for="sage" class="form-control" />
+                <span asp-validation-for="sage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sstd" class="control-label">Standard</label>
+                <input asp-for="sstd" class="form-control" />
+                <span asp-validation-for="sstd" class="text-danger"></span>
+            </div>
+            <div class=" mt-2 d-flex gap-2">
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+                <div>
+                    <a class="btn btn-success" asp-action="Index">Back to List</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

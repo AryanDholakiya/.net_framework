@@ -1,0 +1,103 @@
+﻿@model IEnumerable<_02_CRUDFrontend_using_WebAppi.Models.Student>
+
+    @{
+        ViewData["Title"] = "Index";
+    }
+
+    <h1>Index</h1>
+
+    <p>
+        <a class="btn btn-primary" asp-action="Create">Create New</a>
+    </p>
+    @{
+        if (TempData["insertMessage"] != null)
+        {
+            <div class="alert alert-success alertTimer alert-dismissible fade show" role="alert">
+                <strong>Success!</strong> @TempData["insertMessage"]
+                <button type="button" class="btn btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+        else if (TempData["UpdateMessage"] != null)
+        {
+            <div class="alert alert-success alertTimer alert-dismissible fade show" role="alert">
+                <strong>Success!</strong> @TempData["UpdateMessage"]
+                <button type="button" class="btn btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+        else if (TempData["DeleteMessage"] != null)
+        {
+            <div class="alert alert-danger alertTimer alert-dismissible fade show" role="alert">
+                <strong>Success!</strong> @TempData["DeleteMessage"]
+                <button type="button" class="btn btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+
+    }
+    <table class="table table-bordered text-center">
+        <thead>
+            <tr>
+                @* <th>
+                        @Html.DisplayNameFor(model => model.grNumber)
+                    </th> *@
+                <th>
+                    @Html.DisplayNameFor(model => model.sname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.sgender)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.sage)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.sstd)
+                </th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    @* <td>
+                            @Html.DisplayFor(modelItem => item.grNumber)
+                        </td> *@
+                    <td>
+                        @Html.DisplayFor(modelItem => item.sname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.sgender)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.sage)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.sstd)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.grNumber }, new { @class = "btn btn-warning" }) |
+                        @* @Html.ActionLink("Delete", "Delete", new { id = item.grNumber }, new { @class = "btn btn-danger" }) *@
+                        <a class="btn btn-danger" asp-action="Delete" onclick="confirm('Are you sure for delete the student permanently?')" asp-route-id="@item.grNumber">Delete</a>
+                        @* edit here in all {id = item.grNumber} *@
+                        @* 1st "Edit"=Link ma je lakhay → "Edit", 2nd "Edit"=Controller maa Edit action method, new { id = item.grNumber }=Action method ne id pass kare *@
+                        @*same as: <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.UserId">Edit</a> *@
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    @section Scripts {
+        <script>
+            $(document).ready(function () {
+                //set the timeout for the alertBox
+                setTimeout(function () {
+                    var alertbox = document.getElementsByClassName("alertTimer")[0];
+                    if (alertbox) {
+                        var alert = new bootstrap.Alert(alertbox);
+                        alert.close();
+                    }
+                }, 2000);
+            })
+        </script>
+    }

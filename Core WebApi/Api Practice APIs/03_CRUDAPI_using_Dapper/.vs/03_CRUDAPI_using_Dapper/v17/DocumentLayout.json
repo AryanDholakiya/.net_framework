@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\controllers\\dappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\controllers\\dappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\models\\dapperexamplequerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\models\\dapperexamplequerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\03_crudapi_using_dapper.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\03_crudapi_using_dapper.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\03_crudapi_using_dapper\\03_crudapi_using_dapper\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{269B8FBE-B9B1-415C-A339-744008314CB7}|03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.csproj|solutionrelative:03_crudapi_using_dapper\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\appsettings.json",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\appsettings.json",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\appsettings.json",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T07:12:40.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Repository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\Repository\\IPersonRepository.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Repository\\IPersonRepository.cs",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\Repository\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:38:46.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\Repository\\PersonRepository.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\Repository\\PersonRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwD0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:48:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DapperController.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Controllers\\DapperController.cs",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\Controllers\\DapperController.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Controllers\\DapperController.cs",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\Controllers\\DapperController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:37:42.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DapperExampleQueryContext.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Models\\DapperExampleQueryContext.cs",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\Models\\DapperExampleQueryContext.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Models\\DapperExampleQueryContext.cs",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\Models\\DapperExampleQueryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:24:41.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Program.cs",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\Program.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Program.cs",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:45:34.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\Models\\Person.cs",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\Models\\Person.cs",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:33:35.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "03_CRUDAPI_using_Dapper.http",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.http",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.http",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.http",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-07T04:16:56.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "03_CRUDAPI_using_Dapper\\appsettings.Development.json",
+              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\03_CRUDAPI_using_Dapper\\03_CRUDAPI_using_Dapper\\appsettings.Development.json",
+              "RelativeToolTip": "03_CRUDAPI_using_Dapper\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T07:28:51.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
