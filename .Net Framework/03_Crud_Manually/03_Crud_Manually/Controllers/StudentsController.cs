@@ -4,12 +4,15 @@ using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.Migrations;
+using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.UI;
+using System.Web.UI.WebControls;
 
 namespace _03_Crud_Manually.Controllers
 {
@@ -51,6 +54,10 @@ namespace _03_Crud_Manually.Controllers
             if (!string.IsNullOrEmpty(search))
             {
                 students = students.Where(s => s.FullName.Contains(search) || s.Email.Contains(search));
+                //if()20
+                //{
+
+                //}
             }
             return Json(students.ToList(), JsonRequestBehavior.AllowGet);
             //ASP.NET MVC(Framework) માં જ્યારે તમે controller માંથી JSON return કરો છો ત્યારે GET request વડે JSON return કરવાની permission by default નહીં આપે. so we have to use the "JsonRequestBehavior.AllowGet".
@@ -62,16 +69,37 @@ namespace _03_Crud_Manually.Controllers
         [HttpGet]
         public ActionResult Create()
         {
+            ViewBag.Branch = new List<SelectListItem>()
+            {
+                new SelectListItem{Text = "Information Technology", Value="Information Technology"},
+                new SelectListItem{Text = "Computer Engineering", Value="Computer Engineering"},
+                new SelectListItem{Text = "Aeronotical Engineering", Value="Aeronotical Engineering"},
+                new SelectListItem{Text = "Mechanical Engineering", Value="Mechanical Engineering"}
+            };
+            //why we make SelectListItem here and then pass it to view? --> see create view
+
             return View();
         }
 
         [Route("CreateStudent")] //Post method ma pn same route aapvu neccessary chhe bcz jyare form submit thse tyare teni pase koi route j nhi hse
         //let suppose aapne nthi aapta route to aa method mate route handle krse convention based routing. hve issue e thse jyare convention based route create thse to te kai "Students/Create" prakarnu hse but aapnu form je route ne submit thyu te route "Students/CreateStudent" nu httu tethi error aavse
         [HttpPost]
-        public ActionResult Create(Student student)
+        public ActionResult CreateStudent(Student student, HttpPostedFileBase photoFile)
         {
-            if (ModelState.IsValid)
+            if (ModelState.IsValid && photoFile.ContentLength > 0)
             {
+                //using(var ms = new MemoryStream()) 
+                //{
+                //    photoFile.InputStream.CopyTo(ms);
+                //    student.Photo = ms.ToArray();
+                //}
+                //using ensures that the object(MemoryStream) is automatically disposed (released from memory) when the code block finishes.
+                //Method - 2
+                using (var binaryReader = new BinaryReader(photoFile.InputStream))
+                {
+                    student.Photo = binaryReader.ReadBytes(photoFile.ContentLength);
+                }
+
                 db.students.Add(student);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -84,18 +112,41 @@ namespace _03_Crud_Manually.Controllers
         public ActionResult Edit(int id)
         {
             var Paticular_student = db.students.Find(id);
-            if(Paticular_student == null)
+            if (Paticular_student == null)
             {
                 return HttpNotFound();
             }
+            List<SelectListItem> branches = new List<SelectListItem>()
+            {
+                new SelectListItem{Text = "Information Technology", Value="Information Technology", Selected = Paticular_student.Branch == "Information Technology"},
+                new SelectListItem{Text = "Computer Engineering", Value="Computer Engineering", Selected = Paticular_student.Branch == "Computer Engineering"},
+                new SelectListItem{Text = "Aeronotical Engineering", Value="Aeronotical Engineering", Selected = Paticular_student.Branch == "Aeronotical Engineering"},
+                new SelectListItem{Text = "Mechanical Engineering", Value="Mechanical Engineering", Selected = Paticular_student.Branch == "Mechanical Engineering"}
+            };
+
+            ViewBag.Branch = branches;
+
             return View(Paticular_student);
         }
 
+
+
         [Route("EditStudent")]
         [HttpPost]
-        public ActionResult Edit(Student student)
+        public ActionResult EditStudent(Student student, HttpPostedFileBase photoFile)
         {
-            if(ModelState.IsValid)
+            if (photoFile != null && photoFile.ContentLength > 0)
+            {
+                using (var ms = new MemoryStream())
+                {
+                    photoFile.InputStream.CopyTo(ms);
+                    student.Photo = ms.ToArray();
+                }
+            }
+
+           // string selectedBranch = student.Branch;//THIS IS THE NECCESSARY FOR SHOW THE SELECTED ITEM IN DROPDOWN
+
+            if (ModelState.IsValid)
             {
                 db.Entry(student).State = EntityState.Modified;
                 db.SaveChanges();
@@ -128,7 +179,7 @@ namespace _03_Crud_Manually.Controllers
             return RedirectToAction("Login");
         }
 
-        
+
         [Route("Login")]
         [HttpGet]
         public ActionResult Login()
@@ -185,7 +236,7 @@ namespace _03_Crud_Manually.Controllers
             {
                 TempData["Registered"] = "Registered Successfully!";
             }
-            
+
             return RedirectToAction("Login");
         }
 

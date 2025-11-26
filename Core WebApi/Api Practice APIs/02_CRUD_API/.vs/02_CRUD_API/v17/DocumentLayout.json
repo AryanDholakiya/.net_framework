@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\",
+  "WorkspaceRootPath": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\.net_framework\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|solutionrelative:02_crud_api\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\models\\studentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\.net_framework\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\models\\studentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|solutionrelative:02_crud_api\\models\\studentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\.net_framework\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|solutionrelative:02_crud_api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|solutionrelative:02_crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\.net_framework\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|solutionrelative:02_crud_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\git files\\.net\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\02_crud_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\.net_framework\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|solutionrelative:02_crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|e:\\.net_framework\\core webapi\\api practice apis\\02_crud_api\\02_crud_api\\02_crud_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{DA9C31E4-E348-40B2-AAEF-C0209B5CBE7E}|02_CRUD_API\\02_CRUD_API.csproj|solutionrelative:02_crud_api\\02_crud_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -42,25 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\appsettings.json",
+              "DocumentMoniker": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\appsettings.json",
               "RelativeDocumentMoniker": "02_CRUD_API\\appsettings.json",
-              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\appsettings.json",
+              "ToolTip": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\appsettings.json",
               "RelativeToolTip": "02_CRUD_API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-04T06:59:32.379Z"
+              "WhenOpened": "2025-11-04T06:59:32.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StudentsContext.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Models\\StudentsContext.cs",
+              "DocumentMoniker": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Models\\StudentsContext.cs",
               "RelativeDocumentMoniker": "02_CRUD_API\\Models\\StudentsContext.cs",
-              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Models\\StudentsContext.cs",
+              "ToolTip": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Models\\StudentsContext.cs",
               "RelativeToolTip": "02_CRUD_API\\Models\\StudentsContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T06:58:24.007Z",
               "EditorCaption": ""
@@ -69,46 +70,48 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentApiController.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Controllers\\StudentApiController.cs",
+              "DocumentMoniker": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Controllers\\StudentApiController.cs",
               "RelativeDocumentMoniker": "02_CRUD_API\\Controllers\\StudentApiController.cs",
-              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Controllers\\StudentApiController.cs",
+              "ToolTip": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Controllers\\StudentApiController.cs",
               "RelativeToolTip": "02_CRUD_API\\Controllers\\StudentApiController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwE0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T06:14:10.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Program.cs",
+              "DocumentMoniker": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Program.cs",
               "RelativeDocumentMoniker": "02_CRUD_API\\Program.cs",
-              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Program.cs",
+              "ToolTip": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Program.cs",
               "RelativeToolTip": "02_CRUD_API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:00:00.882Z"
+              "WhenOpened": "2025-11-04T07:00:00.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Models\\Student.cs",
+              "DocumentMoniker": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Models\\Student.cs",
               "RelativeDocumentMoniker": "02_CRUD_API\\Models\\Student.cs",
-              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Models\\Student.cs",
+              "ToolTip": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\Models\\Student.cs",
               "RelativeToolTip": "02_CRUD_API\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T10:13:53.926Z"
+              "WhenOpened": "2025-11-04T10:13:53.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "02_CRUD_API.http",
-              "DocumentMoniker": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\02_CRUD_API.http",
+              "DocumentMoniker": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\02_CRUD_API.http",
               "RelativeDocumentMoniker": "02_CRUD_API\\02_CRUD_API.http",
-              "ToolTip": "E:\\git files\\.Net\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\02_CRUD_API.http",
+              "ToolTip": "E:\\.net_framework\\Core WebApi\\Api Practice APIs\\02_CRUD_API\\02_CRUD_API\\02_CRUD_API.http",
               "RelativeToolTip": "02_CRUD_API\\02_CRUD_API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",

@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\",
+  "WorkspaceRootPath": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|e:\\git files\\.net\\.net framework\\03_crud_manually\\03_crud_manually\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\views\\students\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\views\\students\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\views\\students\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\views\\students\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|e:\\.net_framework\\.net framework\\03_crud_manually\\03_crud_manually\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|e:\\.net_framework\\.net framework\\03_crud_manually\\03_crud_manually\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\views\\students\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\views\\students\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_crud_manually\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4796AE2C-3D34-4A69-9B4D-CEE18390A999}|03_Crud_Manually\\03_Crud_Manually.csproj|solutionrelative:03_crud_manually\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,23 +66,86 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "03_Crud_Manually\\Views\\Students\\Create.cshtml",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "03_Crud_Manually\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T09:49:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Web.config",
+              "RelativeDocumentMoniker": "03_Crud_Manually\\Web.config",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Web.config",
+              "RelativeToolTip": "03_Crud_Manually\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-26T04:06:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "03_Crud_Manually\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "03_Crud_Manually\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:57:27.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "03_Crud_Manually\\Models\\Student.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Models\\Student.cs",
+              "RelativeToolTip": "03_Crud_Manually\\Models\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:03:03.829Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\packages.config",
+              "RelativeDocumentMoniker": "03_Crud_Manually\\packages.config",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\packages.config",
+              "RelativeToolTip": "03_Crud_Manually\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-24T04:02:53.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "03_Crud_Manually\\App_Start\\RouteConfig.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "03_Crud_Manually\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T11:39:35.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "BundleConfig.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\App_Start\\BundleConfig.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "03_Crud_Manually\\App_Start\\BundleConfig.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\App_Start\\BundleConfig.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "03_Crud_Manually\\App_Start\\BundleConfig.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,11 +153,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Site.css",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Content\\Site.css",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Content\\Site.css",
               "RelativeDocumentMoniker": "03_Crud_Manually\\Content\\Site.css",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Content\\Site.css",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Content\\Site.css",
               "RelativeToolTip": "03_Crud_Manually\\Content\\Site.css",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -98,23 +165,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Edit.cshtml",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Edit.cshtml",
               "RelativeDocumentMoniker": "03_Crud_Manually\\Views\\Students\\Edit.cshtml",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Edit.cshtml",
               "RelativeToolTip": "03_Crud_Manually\\Views\\Students\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAD4v1gAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T10:54:18.266Z"
+              "WhenOpened": "2025-11-20T10:54:18.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Register.cshtml",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Register.cshtml",
               "RelativeDocumentMoniker": "03_Crud_Manually\\Views\\Students\\Register.cshtml",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Register.cshtml",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Register.cshtml",
               "RelativeToolTip": "03_Crud_Manually\\Views\\Students\\Register.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -122,11 +190,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Global.asax.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Global.asax.cs",
               "RelativeDocumentMoniker": "03_Crud_Manually\\Global.asax.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Global.asax.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Global.asax.cs",
               "RelativeToolTip": "03_Crud_Manually\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,61 +203,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "03_Crud_Manually\\Models\\LoginModel.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Models\\LoginModel.cs",
-              "RelativeToolTip": "03_Crud_Manually\\Models\\LoginModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T11:53:31.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "03_Crud_Manually\\Controllers\\StudentsController.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "03_Crud_Manually\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAiwK4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:54:28.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Login.cshtml",
-              "RelativeDocumentMoniker": "03_Crud_Manually\\Views\\Students\\Login.cshtml",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Login.cshtml",
-              "RelativeToolTip": "03_Crud_Manually\\Views\\Students\\Login.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T12:30:25.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Create.cshtml",
-              "RelativeDocumentMoniker": "03_Crud_Manually\\Views\\Students\\Create.cshtml",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Create.cshtml",
-              "RelativeToolTip": "03_Crud_Manually\\Views\\Students\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T06:53:13.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Index.cshtml",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "03_Crud_Manually\\Views\\Students\\Index.cshtml",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Index.cshtml",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\03_Crud_Manually\\03_Crud_Manually\\Views\\Students\\Index.cshtml",
               "RelativeToolTip": "03_Crud_Manually\\Views\\Students\\Index.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwGUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-18T06:00:01.562Z"
             }

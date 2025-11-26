@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
 namespace _03_Crud_Manually.Models
 {
+    [Table("Students")]
     public class Student
     {
         [Key]
@@ -21,5 +23,16 @@ namespace _03_Crud_Manually.Models
         [Required]
         [Range(18,25,ErrorMessage="Age must be between 18 to 25")]
         public int Age { get; set; }
+
+
+        public byte[] Photo { get; set; }
+
+        [Required]
+        public string Gender { get; set; }
+
+        [Required]
+        public string Branch { get; set; }
+
+
     }
 }

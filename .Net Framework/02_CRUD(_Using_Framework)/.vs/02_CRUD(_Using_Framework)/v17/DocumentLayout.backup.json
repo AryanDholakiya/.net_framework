@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\",
+  "WorkspaceRootPath": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|e:\\git files\\.net\\.net framework\\02_crud(_using_framework)\\02_crud(_using_framework)\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|e:\\.net_framework\\.net framework\\02_crud(_using_framework)\\02_crud(_using_framework)\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\models\\studentmanagement.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\models\\studentmanagement.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\models\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\models\\studentmanagement.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\models\\studentmanagement.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\models\\studentmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\models\\studentmanagement.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\models\\studentmanagement.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_crud(_using_framework)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{36940D1E-892A-4419-A636-B8EA9970E515}|02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework).csproj|solutionrelative:02_crud(_using_framework)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "packages.config",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\packages.config",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\packages.config",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\packages.config",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\packages.config",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\packages.config",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\packages.config",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -108,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StudentManagement.Context.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Web.config",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Web.config",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Web.config",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Web.config",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Web.config",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Web.config",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Web.config",
               "ViewState": "AgIAADsAAAAAAAAAAAAAAEMAAADtAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Global.asax.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Global.asax.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Global.asax.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Global.asax.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Global.asax.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,9 +145,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\students\\Create.cshtml",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\students\\Create.cshtml",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Views\\students\\Create.cshtml",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\students\\Create.cshtml",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\students\\Create.cshtml",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Views\\students\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -155,36 +155,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\students\\Index.cshtml",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\students\\Index.cshtml",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Views\\students\\Index.cshtml",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\students\\Index.cshtml",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\students\\Index.cshtml",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Views\\students\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-17T12:00:47.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "studentsController.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Controllers\\studentsController.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Controllers\\studentsController.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Controllers\\studentsController.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Controllers\\studentsController.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Controllers\\studentsController.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Controllers\\studentsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:56:45.014Z"
+              "WhenOpened": "2025-11-17T10:56:45.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "StudentManagement.tt",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.tt",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.tt",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.tt",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.tt",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.tt",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.tt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -194,10 +195,10 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "StudentManagement.edmx [Diagram1]",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx",
               "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx [Diagram1]",
-              "RelativeToolTip": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2025-11-17T10:55:06.924Z"
             },
@@ -205,9 +206,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "StudentManagement.Context.tt",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.tt",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.tt",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.tt",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.tt",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.tt",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.Context.tt",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAFIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -217,9 +218,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "student.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\student.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\student.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Models\\student.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\student.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\student.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Models\\student.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,9 +230,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "StudentManagement.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,9 +242,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "StudentManagement.Designer.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Designer.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Designer.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.Designer.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Designer.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.Designer.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,9 +254,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "StudentManagement.edmx.diagram",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx.diagram",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx.diagram",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx.diagram",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx.diagram",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx.diagram",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Models\\StudentManagement.edmx.diagram",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -265,9 +266,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\App_Start\\RouteConfig.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,9 +278,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Controllers\\HomeController.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "BundleConfig.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\BundleConfig.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\App_Start\\BundleConfig.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\BundleConfig.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\App_Start\\BundleConfig.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -301,9 +302,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "FilterConfig.cs",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\FilterConfig.cs",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\App_Start\\FilterConfig.cs",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\FilterConfig.cs",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\App_Start\\FilterConfig.cs",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\App_Start\\FilterConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,9 +314,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "02_CRUD(_Using_Framework)\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\git files\\.Net\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\.net_framework\\.Net Framework\\02_CRUD(_Using_Framework)\\02_CRUD(_Using_Framework)\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "02_CRUD(_Using_Framework)\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

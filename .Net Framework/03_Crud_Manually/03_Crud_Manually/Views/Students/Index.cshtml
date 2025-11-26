@@ -24,6 +24,9 @@
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.Photo)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.FullName)
             </th>
             <th>
@@ -31,6 +34,12 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Branch)
             </th>
             <th>Actions</th>
         </tr>
@@ -40,6 +49,13 @@
         {
             <tr>
                 <td>
+                    @if (item.Photo != null)
+                    {
+                        <img src="data:image/png;base64,@Convert.ToBase64String(item.Photo)"
+                             width="90" height="90" />
+                    }
+                </td>
+                <td>
                     @Html.DisplayFor(modelItem => item.FullName)
                 </td>
                 <td>
@@ -47,6 +63,12 @@
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Branch)
                 </td>
                 <td>
                     @Html.ActionLink("Edit", "Edit", new { id = item.SId }, new { @class = "btn btn-success" }) |
@@ -75,19 +97,35 @@
 
                         res.forEach(function (item) {
                             let row = `<tr>
-                                        <td>${item.FullName}</td>
-                                        <td>${item.Email}</td>
-                                        <td>${item.Age}</td>
-                                        <td>
-                                           <a href="/Students/Edit/${item.SId}" class="btn btn-success">Edit</a> ||
-                                           <a href="/Students/Delete/${item.SId}" onclick="return confirm('Are you sure You want to Delete this record?')" class="btn btn-danger">Delete</a>
-                                        </td>
-                                    </tr>`
+                                         <td>
+                                           <img src="data:image/png;base64,${byteArrayToBase64(item.Photo)}" width="90" height="90" />
+                                            </td>
+                                             <td>${item.FullName}</td>
+                                             <td>${item.Email}</td>
+                                             <td>${item.Age}</td>
+                                             <td>${item.Gender}</td>
+                                             <td>
+                                                <a href="/Students/Edit/${item.SId}" class="btn btn-success">Edit</a> ||
+                                                <a href="/Students/Delete/${item.SId}" onclick="return confirm('Are you sure You want to Delete this record?')" class="btn btn-danger">Delete</a>
+                                            </td>
+                                       </tr>`
                             $("#studentsTable tbody").append(row);
                         });
                     }
                 })
             })
-        })
+        });
+        
+        function byteArrayToBase64(bytes) {  //search time prr byte ne string ma convert krva aam j krvu pdse
+            console.log(bytes)
+            let binary = '';
+            let len = bytes.length;
+
+            for (let i = 0; i < len; i++) {
+                binary += String.fromCharCode(bytes[i]);
+            }
+
+            return window.btoa(binary);
+        }
     </script>
 }
